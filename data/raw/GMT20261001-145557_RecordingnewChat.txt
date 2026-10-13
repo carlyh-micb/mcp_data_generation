@@ -1,0 +1,33 @@
+00:07:01	Carly Huitema (University of Guelph):	Canada ending DST on November 1, 2026, and Europe on October 25, 2026.
+00:08:18	sankarshan:	Replying to "Canada ending DST on..."
+
+In other words - the meeting times become more awkward for me 🙂
+00:09:13	Carly Huitema (University of Guelph):	Reacted to "In other words - the meeting times become more awkward for me 🙂" with 😯
+00:10:12	Leonardo Maldonado:	Thanks @Fabrice Rochette - Verana.io
+00:10:35	Lyn Brooks (dHub Group):	Reacted to "In other words - the meeting times become more awkward for me 🙂" with 😯
+00:10:37	Leonardo Maldonado:	I have a problem with my headset, but listening you
+00:11:03	Steven Milstein:	Meeting page
+https://lf-toip.atlassian.net/wiki/spaces/HOME/pages/1203437569/2026-10-01+Fabrice+Rochette+and+Governing+a+Registry+of+Registries
+00:11:09	sankarshan:	Replying to "I have a problem wit..."
+
+ACK. The meetings are also eventually published on the YouTube channel of LF Decentralised Trust.
+00:13:24	Carly Huitema (University of Guelph):	EGWG Reporting Tools next meeting Wed 7th at noon EST
+00:13:32	sankarshan:	…but Prague will have so much exciting news!
+00:14:14	Carly Huitema (University of Guelph):	Is Prague the Plumbers conference?
+00:15:34	sankarshan:	35,000 USD at retail prices / day
+00:16:09	sankarshan:	Special deals - very common at this scale
+00:20:24	Carly Huitema (University of Guelph):	Replying to "Is Prague the Plumbers conference?"
+
+Yes, Linux Foundation Plumbers Conference is in Prague next week.
+00:30:41	Carly Huitema (University of Guelph):	They using 4.5 billion tokens a day which would be a retail cost of $35-50k/day and $15-18 million a year. They have pushed the frontier models to the limit.https://youtu.be/fp0IwD-R1WY?si=tYJUmMtPOVsTECWT&t=2318
+00:32:09	sankarshan:	Replying to "They using 4.5 billi..."
+
+The APAC DTG call brought up a reference to https://rcrt.cloud/how-it-works  (a business which focuses on optimising the costs)
+00:33:27	Carly Huitema (University of Guelph):	Reacted to "The APAC DTG call brought up a reference to https://rcrt.cloud/how-it-works  (a business which focuses on optimising the costs)" with 😮
+00:34:18	sankarshan:	Replying to "They using 4.5 billi..."
+
+Look at it this way - it makes the codebase extremely valuable!
+00:36:16	sankarshan:	I like the detail and granularity in the thinking behind the Governance Framework. It is positively biased for the sustainability  of the ecosystem and addressing risks from malicious actions and collusions. Very nicely done.
+00:40:11	sankarshan:	FYI - Scott has his hand raised (the background made it invisible for me)
+01:00:53	Makki Elfatih (Hkdolts):	How does Verana currently prevent identity correlation and linkage attacks while still performing strict cryptographic verification?
+01:04:13	Makki Elfatih (Hkdolts):	Thabjs a bunch Fabrice+

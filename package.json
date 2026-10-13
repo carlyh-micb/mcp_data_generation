@@ -1,0 +1,24 @@
+{
+  "name": "mcp_data_generation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "saidify_all.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlyh-micb/mcp_data_generation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/carlyh-micb/mcp_data_generation/issues"
+  },
+  "homepage": "https://github.com/carlyh-micb/mcp_data_generation#readme",
+  "dependencies": {
+    "saidify": "^1.1.1"
+  }
+}
