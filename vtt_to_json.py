@@ -1,6 +1,7 @@
 import json
 import re
 from pathlib import Path
+from datetime import datetime, timezone
 
 RAW_DIR = Path("data/raw")
 PROCESSED_DIR = Path("data/processed")
@@ -40,6 +41,9 @@ for file_path in RAW_DIR.iterdir():
     content_type = None
 
     file_name = file_path.name.lower()
+    date_string = file_name[3:11]
+    date_object = datetime.strptime(date_string, "%Y%m%d")
+    print(date_object)
 
     if file_name.endswith(".txt"):
         content_type = "Chat"
@@ -63,7 +67,7 @@ for file_path in RAW_DIR.iterdir():
         content = raw_content
 
     data = {
-        "id": "",
+        "id": "zoom-" + content_type + "-" + date_object.strftime("%Y-%m-%d"),
 
         "project": "Trust over IP",
 
@@ -71,7 +75,7 @@ for file_path in RAW_DIR.iterdir():
             "Ecosystem Governance Working Group"
         ],
 
-        "date": "",
+        "date": date_object.strftime("%Y-%m-%d"),
 
         "source_system": "Zoom",
 
@@ -88,12 +92,14 @@ for file_path in RAW_DIR.iterdir():
 
         "content": content,
 
-        "collected_at": ""
+        "collected_at": datetime.now(timezone.utc).isoformat()
     }
 
     output_file = PROCESSED_DIR / f"{file_path.stem}.json"
+    if output_file.is_file():
+        print(f"{output_file} already exists")
+    else:
+        with open(output_file, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2)
 
-    with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2)
-
-    print(f"Created {output_file}")
+        print(f"Created {output_file}")

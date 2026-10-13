@@ -1,0 +1,57 @@
+00:07:34	Carly Huitema (University of Guelph):	https://lf-toip.atlassian.net/wiki/spaces/HOME/pages/1170112513/2026-09-17+Working+Session+Office+Hours
+00:10:01	Sankarshan:	“If Anyone Builds It, Everyone Dies” : https://ifanyonebuildsit.com/
+00:10:11	Carly Huitema (University of Guelph):	https://en.wikipedia.org/wiki/If_Anyone_Builds_It,_Everyone_Dies
+00:13:19	Sankarshan:	“Open source AI” itself has insufficient agreement around the openness of training data, weights, inferences, interfaces and models
+00:13:49	Steven Milstein:	Replying to "“Open source AI”..."
+
+Agreed
+00:15:39	Sankarshan:	Trust Spanning Protocol —> v1.0 ?
+00:18:21	Carly Huitema (University of Guelph):	https://docs.google.com/document/d/1-9_YPWas0O3E7k7gaNUZdU5sEoG3-7Z6nMkXn21oS9I/edit?tab=t.0#heading=h.2m141d90xgax
+00:18:28	Carly Huitema (University of Guelph):	https://docs.google.com/document/d/1HfvzrYEWCZekCkka9r2kSB1jyY_xtedd0TUDq_9ZB8E/edit?tab=t.0
+00:23:08	Makki Elfatih (Hkdolts):	Can you share the invitation
+00:23:13	Makki Elfatih (Hkdolts):	Thanks
+00:23:23	Carly Huitema (University of Guelph):	https://zoom-lfx.platform.linuxfoundation.org/meetings/ToIP?view=week
+00:23:56	Makki Elfatih (Hkdolts):	Reacted to https://zoom-lfx.pla... with "👍"
+00:24:27	Neil Thomson (QueryVision):	@Carly Huitema (University of Guelph) What technology is the Skill assuming?
+00:24:59	Carly Huitema (University of Guelph):	Replying to "@Carly Huitema (University of Guelph) What technology is the Skill assuming?"
+
+I think it is pretty generic for the frontier AIs.I was able to use a free account with ChatGPT in the past to generate this stuff.
+00:25:06	Sankarshan:	There is an iCal button on top left ish : that allows you to subscribe (if you need specific calendar/project)
+00:25:56	Lyn Brooks (dHub Group):	Replying to "There is an iCal button on top left ish : that allows you to subscribe (if you need specific calendar/project)"
+
+✔️
+00:30:18	Makki Elfatih (Hkdolts):	Reacted to There is an iCal but... with "👍"
+00:31:02	Eric Drury (Forth Consulting):	https://docs.google.com/document/d/17m913Lhd_tmOPyqFa5vIlO2rJIJwrlXgZRlGxg6tcQ0/edit?tab=t.j2a9vd7jzafp
+00:37:03	Sankarshan:	If there is a planned activity to update the Metamodel it might be ideal to create a list of inputs that can be examined to determine whether the update is a minor change or a major release. At this point I don’t think we have that input/requirements in place yet.
+00:43:36	Carly Huitema (University of Guelph):	https://www.gleif.org/en/organizational-identity/become-a-vlei-issuer-qvi/vlei-ecosystem-governance-framework Here is vLEI governance documents
+00:44:43	Carly Huitema (University of Guelph):	We could do markdown in github
+00:45:07	Carly Huitema (University of Guelph):	And put the specification in GitHub as markdown and then use the tools of GitHub to work on the specification (v2 of metamodel)
+00:45:09	Makki Elfatih (Hkdolts):	I think it'll be good to also gather feedback from GLEIF members who use the current version
+00:45:14	Neil Thomson (QueryVision):	Not GitHub issues? Not ready "to become of the body?"
+00:45:21	Carly Huitema (University of Guelph):	Reacted to "Not GitHub issues? Not ready "to become of the body?"" with 😂
+00:45:39	Carly Huitema (University of Guelph):	Replying to "Not GitHub issues? Not ready "to become of the body?""
+
+I've been slowly learning GitHub. Now I get to teach introductory courses about how to use it for documentation development
+00:46:37	Sankarshan:	Replying to "I think it'll be goo..."
+
+Does GLEIF not have a version that is based on the meta model but not exactly the meta model?
+00:47:06	Eric Drury (Forth Consulting):	https://docs.google.com/document/d/1hpttsF-8xSpzaRbv9YLwSfl_QFMGl7WPQhLg1aorbUQ/edit?usp=sharing
+00:47:20	Makki Elfatih (Hkdolts):	They've adopted it and referenced it internally as I recall from Karla
+00:47:45	Makki Elfatih (Hkdolts):	Replying to "I think it'll be goo..." 
+
+ So they're using it as an input to their documentation
+00:49:25	Neil Thomson (QueryVision):	The virtue of using MD as the Git version is that MS Word/Google Doc versions can be generated for those who are not "Git savvy" to comment via Google Doc or stand alone Word docs - which AI can scan for input (if required).
+00:50:33	Sankarshan:	I remember a meeting where Karla had mentioned a conversation with Drummond in context of the GLEIF governance framework updation. So, there’s some dots to connect.
+00:50:38	Carly Huitema (University of Guelph):	Should this actually be spec up t?
+00:50:46	Sankarshan:	Replying to "Should this actually..."
+
+eventually
+00:50:56	Steven Milstein:	Markdown renders natively in GitHub, so we don't have to bother with Pages yet
+00:57:42	Carly Huitema (University of Guelph):	Reacted to "Markdown renders natively in GitHub, so we don't have to bother with Pages yet" with 👍
+00:58:12	Carly Huitema (University of Guelph):	I'm asking Ry about setting up a spec-up-t instance.I figure start now and it will take a long time to learn how to use it and we can work in Google Docs for a long time.
+01:01:54	Eric Drury (Forth Consulting):	Reacted to "I'm asking Ry about setting up a spec-up-t instance.
+
+I figure start now and it will take a long time to learn how to use it and we can work in Google Docs for a long time." with 👍
+01:03:45	Makki Elfatih (Hkdolts):	I think also building the toc
+01:03:58	Makki Elfatih (Hkdolts):	If we agree on a toc ahead of deep dives 
+01:05:15	Sankarshan:	Looking forward to the work on the new meta model. Thanks for the conversation!

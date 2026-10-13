@@ -1,0 +1,2594 @@
+WEBVTT
+
+1
+00:04:07.230 --> 00:04:08.940
+Sankarshan: Hello, Carly.
+
+2
+00:05:32.830 --> 00:05:33.770
+Eric Drury (Forth Consulting): Hello?
+
+3
+00:05:34.720 --> 00:05:39.089
+Carly Huitema (University of Guelph): Phew, I thought I was in the wrong meeting or something. Sometimes there were double links.
+
+4
+00:05:39.770 --> 00:05:40.870
+Eric Drury (Forth Consulting): Double links.
+
+5
+00:05:42.260 --> 00:05:43.380
+Carly Huitema (University of Guelph): Hello, hello.
+
+6
+00:05:43.780 --> 00:05:44.650
+Carly Huitema (University of Guelph): Yeah!
+
+7
+00:05:45.520 --> 00:05:46.929
+Carly Huitema (University of Guelph): I have a new budgie.
+
+8
+00:05:47.610 --> 00:05:48.669
+Eric Drury (Forth Consulting): You have a new budgie?
+
+9
+00:05:48.900 --> 00:05:49.780
+Carly Huitema (University of Guelph): Yep.
+
+10
+00:05:50.050 --> 00:05:53.660
+Eric Drury (Forth Consulting): Do you always have to give them the same names, or do you give them a different name?
+
+11
+00:05:54.310 --> 00:05:57.349
+Carly Huitema (University of Guelph): This one was named by the pound.
+
+12
+00:05:58.540 --> 00:06:00.149
+Eric Drury (Forth Consulting): by the pound.
+
+13
+00:06:02.320 --> 00:06:03.200
+Carly Huitema (University of Guelph): No shelter.
+
+14
+00:06:03.200 --> 00:06:04.870
+Eric Drury (Forth Consulting): The shelter, okay, what was it named?
+
+15
+00:06:05.480 --> 00:06:08.810
+Carly Huitema (University of Guelph): Her name is Pez, P-E-Z.
+
+16
+00:06:08.810 --> 00:06:10.450
+Eric Drury (Forth Consulting): Test dispenser.
+
+17
+00:06:10.950 --> 00:06:20.660
+Carly Huitema (University of Guelph): Yeah, like a Pez dispenser. Anyway, she's a very nervous budgie, and she doesn't want to go back in her cage.
+
+18
+00:06:21.350 --> 00:06:23.820
+Eric Drury (Forth Consulting): Well, I'd be nervous to go back in the cage. Well…
+
+19
+00:06:28.380 --> 00:06:42.639
+Eric Drury (Forth Consulting): So we did not publicize this meeting, and we haven't met for weeks or months because of the break, and then the GDC, and so, I don't know if we're going to get many attendees, but…
+
+20
+00:06:43.360 --> 00:06:54.950
+Eric Drury (Forth Consulting): it could be a good planning session, because we've got a couple things happening. I know Sankarshan is working on some governance stuff, and John, put… John Phillips put some governance stuff as well.
+
+21
+00:06:55.990 --> 00:07:00.530
+Eric Drury (Forth Consulting): So… Hey, Steven.
+
+22
+00:07:03.750 --> 00:07:05.280
+Eric Drury (Forth Consulting): Is this recording?
+
+23
+00:07:05.400 --> 00:07:07.370
+Eric Drury (Forth Consulting): It just automatically cloud reporting?
+
+24
+00:07:07.790 --> 00:07:12.280
+Carly Huitema (University of Guelph): It automatically records, unless, with a host key, you stop or pause the recording.
+
+25
+00:07:12.800 --> 00:07:14.950
+Carly Huitema (University of Guelph): But the transcript will keep going.
+
+26
+00:07:16.990 --> 00:07:17.820
+Eric Drury (Forth Consulting): Okay.
+
+27
+00:07:20.690 --> 00:07:28.280
+Eric Drury (Forth Consulting): Let's see here… How's it going, Lynn?
+
+28
+00:07:35.300 --> 00:07:38.189
+Lyn Brooks (dHub Group): Very well, thank you. Good morning. Thank you.
+
+29
+00:07:38.190 --> 00:07:40.679
+Eric Drury (Forth Consulting): You guys ready to join the EU?
+
+30
+00:07:42.550 --> 00:07:49.420
+Lyn Brooks (dHub Group): Well, remains to be seen, I don't know. Pluses and minuses, I guess.
+
+31
+00:07:50.350 --> 00:07:54.270
+Carly Huitema (University of Guelph): Associate member, not a full member, but… Yeah.
+
+32
+00:07:54.270 --> 00:07:55.059
+Lyn Brooks (dHub Group): sounds reasonable.
+
+33
+00:07:55.060 --> 00:07:59.530
+Steven Milstein: Regardless of the terminology, it was a pretty cool speech, I have to say, from my.
+
+34
+00:08:01.350 --> 00:08:06.110
+Carly Huitema (University of Guelph): Now… now the… now the tantrum is… It's.
+
+35
+00:08:08.690 --> 00:08:14.469
+Eric Drury (Forth Consulting): our president's so upset, he's gonna stop trading full stop with the EU.
+
+36
+00:08:14.720 --> 00:08:15.450
+Eric Drury (Forth Consulting): Yeah.
+
+37
+00:08:15.790 --> 00:08:18.389
+Steven Milstein: Good luck with that. Yeah, go for it.
+
+38
+00:08:18.390 --> 00:08:21.300
+Lyn Brooks (dHub Group): Cool.
+
+39
+00:08:21.940 --> 00:08:24.310
+Eric Drury (Forth Consulting): Yeah.
+
+40
+00:08:25.910 --> 00:08:28.440
+Carly Huitema (University of Guelph): After he demolishes the Kennedy Center.
+
+41
+00:08:33.230 --> 00:08:33.579
+Steven Milstein: all these.
+
+42
+00:08:33.580 --> 00:08:34.210
+Eric Drury (Forth Consulting): Justified.
+
+43
+00:08:34.210 --> 00:08:37.109
+Steven Milstein: I mean, a woman put his name on it, so…
+
+44
+00:08:42.299 --> 00:08:46.479
+Eric Drury (Forth Consulting): Well, let's look at, let's look at a couple things here.
+
+45
+00:08:46.880 --> 00:08:53.500
+Steven Milstein: But, speaking of governance, I know Sankan's on the call, so that's cool, because I know he's written a lot of stuff.
+
+46
+00:08:53.590 --> 00:09:11.429
+Steven Milstein: for those of us who happened to be on the steering committee call yesterday, I thought that when it was declared the fastest meeting ever, which was great, it was the after-meeting part, which was actually much more interesting for me. I think, whatever Drummond revealed from that meeting yesterday was pretty exciting.
+
+47
+00:09:11.430 --> 00:09:13.839
+Steven Milstein: or interesting, I would say.
+
+48
+00:09:13.840 --> 00:09:14.270
+Eric Drury (Forth Consulting): Which is why…
+
+49
+00:09:14.270 --> 00:09:16.280
+Steven Milstein: Fascinating to think that,
+
+50
+00:09:16.490 --> 00:09:24.819
+Steven Milstein: you had Bernie Sanders on stage, followed up by Steve Bannon, so I think that in itself is a great,
+
+51
+00:09:25.020 --> 00:09:28.080
+Steven Milstein: Photop, if they took it, I'm sure they did.
+
+52
+00:09:29.860 --> 00:09:36.830
+Steven Milstein: I didn't catch the name of the book Drummond was referring to. If we all… if we build it, we all die, or something like that, but…
+
+53
+00:09:36.830 --> 00:09:37.520
+Eric Drury (Forth Consulting): Nope, nope.
+
+54
+00:09:37.520 --> 00:09:39.460
+Steven Milstein: I was quite captivated by it.
+
+55
+00:09:41.860 --> 00:09:45.030
+Eric Drury (Forth Consulting): Yeah, I'm… I've not read that.
+
+56
+00:09:45.030 --> 00:09:49.720
+Steven Milstein: even what, King Charles had some meeting…
+
+57
+00:09:49.720 --> 00:09:51.090
+Eric Drury (Forth Consulting): AI?
+
+58
+00:09:51.090 --> 00:09:56.470
+Steven Milstein: Scotland, maybe, about, putting some kind of governance around AI?
+
+59
+00:09:56.660 --> 00:10:01.859
+Steven Milstein: With all the other big leaders there, and Microsoft is saying that, there you go, thanks.
+
+60
+00:10:02.080 --> 00:10:17.219
+Steven Milstein: Microsoft was saying, now's the time. So basically, we know now what… what… it's not a bad logic if you want to reverse, think it, or reverse engineer it. We'll build governance around what we know, what we're building governance around, so I think…
+
+61
+00:10:17.760 --> 00:10:21.649
+Steven Milstein: You know, the question is, do they… they're not gonna stop, obviously.
+
+62
+00:10:21.880 --> 00:10:29.509
+Steven Milstein: But, the Governance may have come out a bit earlier, especially since Open Eye now admitted, 6 more
+
+63
+00:10:30.230 --> 00:10:31.430
+Steven Milstein: breaches.
+
+64
+00:10:31.540 --> 00:10:32.099
+Steven Milstein: To put it low.
+
+65
+00:10:32.100 --> 00:10:33.399
+Eric Drury (Forth Consulting): Yeah, I mean…
+
+66
+00:10:34.240 --> 00:10:52.409
+Neil Thomson (QueryVision): There was a video that I watched yesterday that talks about this, and there's a group that's actually actively, you know, gonna release additional ones. And the scenario for getting rid of humanity is, well, AI wants more and more resources. So, okay, do we give
+
+67
+00:10:52.410 --> 00:10:59.620
+Neil Thomson (QueryVision): people more resources, or do we grab more resources? So, it's not… it's not… it's not a deliberate decision, it's just…
+
+68
+00:11:00.380 --> 00:11:01.960
+Neil Thomson (QueryVision): We're gonna put ourselves first.
+
+69
+00:11:03.790 --> 00:11:23.679
+Eric Drury (Forth Consulting): Yeah, I mean, just being in Europe, and ever, let's say, the last 3 years, when it's really gone warp speed with AI, and Europe's been beating the drum about governance and regulation, and the U.S. is like, no, no, we're gonna regulate ourselves, or let the market regulate, and all this kind of stuff.
+
+70
+00:11:23.760 --> 00:11:32.459
+Eric Drury (Forth Consulting): So it's good to see that it's… it's… they're taking it seriously, but the, the narrative that I hear as well is that all these companies are like.
+
+71
+00:11:32.830 --> 00:11:44.899
+Eric Drury (Forth Consulting): we need to… we don't want open source AI to gain any traction, and so by doing this, it'll allow them to sort of keep a stranglehold on the development, etc.
+
+72
+00:11:47.020 --> 00:11:54.010
+Steven Milstein: Well, I mean, on the other hand, if everything is open source, which, if I understand correctly, I mean.
+
+73
+00:11:54.210 --> 00:12:01.389
+Steven Milstein: The next hour will be, Wayne Jean's call, which will be great, because he always has really good insight into these things.
+
+74
+00:12:01.990 --> 00:12:14.000
+Steven Milstein: I mean, the problem with open source is anybody could get open source. And if there's a governance layer or weighting, whatever, they can go, yeah, I don't think I really want that, or here's mine instead.
+
+75
+00:12:14.740 --> 00:12:15.180
+Eric Drury (Forth Consulting): So…
+
+76
+00:12:15.180 --> 00:12:18.590
+Steven Milstein: So, I don't know how you regulate, open source.
+
+77
+00:12:20.150 --> 00:12:38.429
+Steven Milstein: by the time you get around to regulating it, the genie or the toothpaste is out of the bottle. I mean, it doesn't… it's like, what was the… what was the line they gave, or Drumm gave an example of? It's like a race, a nuclear race, who… who pushes the button first. Once you push the button, it makes no difference who pushes it second.
+
+78
+00:12:39.900 --> 00:12:40.490
+Eric Drury (Forth Consulting): Yeah.
+
+79
+00:12:40.660 --> 00:12:41.410
+Eric Drury (Forth Consulting): Yeah.
+
+80
+00:12:42.870 --> 00:12:47.819
+Eric Drury (Forth Consulting): Yeah, they'll be regulated the same, but I haven't followed that thread, but that's just the sort.
+
+81
+00:12:47.820 --> 00:12:49.489
+Steven Milstein: Yeah, but unless there's some kind of…
+
+82
+00:12:49.760 --> 00:12:58.889
+Steven Milstein: executable governance, right? I mean, legislation… by the time legislation comes in, we're just like a puff of smoke at that point.
+
+83
+00:12:59.420 --> 00:13:00.120
+Steven Milstein: Who cares?
+
+84
+00:13:00.120 --> 00:13:02.649
+Eric Drury (Forth Consulting): I mean, in Europe, they won't even let them release the models.
+
+85
+00:13:03.040 --> 00:13:06.740
+Eric Drury (Forth Consulting): I mean, so it's… I don't know.
+
+86
+00:13:07.970 --> 00:13:17.350
+Eric Drury (Forth Consulting): I don't know. Should we start this… this meeting, though, and we can continue to talk about that, because there's some AI stuff, and then I'll… I'll go ahead and share my screen, I think.
+
+87
+00:13:20.070 --> 00:13:25.530
+Eric Drury (Forth Consulting): Gosh, I haven't been on Zoom in a while, so… and sorry I missed the, steering committee meeting.
+
+88
+00:13:27.250 --> 00:13:29.220
+Eric Drury (Forth Consulting): Where is this? I think it's this one.
+
+89
+00:13:30.800 --> 00:13:32.930
+Eric Drury (Forth Consulting): Okay, can you see my screen?
+
+90
+00:13:34.200 --> 00:13:34.859
+Steven Milstein: Yes, yeah.
+
+91
+00:13:36.110 --> 00:13:44.190
+Eric Drury (Forth Consulting): Okay, well, let's go ahead and start the meeting. The recording has started already. Antitrust policy notice.
+
+92
+00:13:44.410 --> 00:13:48.690
+Eric Drury (Forth Consulting): No need to read it.
+
+93
+00:13:49.370 --> 00:13:53.750
+Eric Drury (Forth Consulting): Out loud, but you guys can read it here. Is that… Legible for you?
+
+94
+00:13:54.030 --> 00:13:55.720
+Steven Milstein: We're all members anyway.
+
+95
+00:13:56.000 --> 00:14:01.259
+Eric Drury (Forth Consulting): So we've all gone back. Okay, Carly has,
+
+96
+00:14:01.430 --> 00:14:09.209
+Eric Drury (Forth Consulting): She's retired as co-chair, but, nice, yeah, she's smiling, big, big smile.
+
+97
+00:14:09.380 --> 00:14:20.300
+Eric Drury (Forth Consulting): But thank you for your service, Carly, and we will continue to forge forward without you, and… or with you just joining the meetings.
+
+98
+00:14:20.610 --> 00:14:25.330
+Eric Drury (Forth Consulting): So, thank you for that. Any other announcements we want to talk about before or…
+
+99
+00:14:28.010 --> 00:14:29.980
+Eric Drury (Forth Consulting): We get into the meat of the meeting.
+
+100
+00:14:31.670 --> 00:14:33.239
+Eric Drury (Forth Consulting): Anybody have anything else to…
+
+101
+00:14:34.460 --> 00:14:35.380
+Eric Drury (Forth Consulting): offer.
+
+102
+00:14:38.050 --> 00:14:39.460
+Steven Milstein: I'm just shopping with it.
+
+103
+00:14:40.160 --> 00:14:40.710
+Eric Drury (Forth Consulting): What's that?
+
+104
+00:14:40.710 --> 00:14:43.450
+Steven Milstein: I just said everything I have to say, I'm done.
+
+105
+00:14:43.450 --> 00:14:46.900
+Eric Drury (Forth Consulting): All right. Okay, do you want to say anything about Bite Size Trust, Carly?
+
+106
+00:14:48.580 --> 00:14:49.759
+Eric Drury (Forth Consulting): You're on mute, though.
+
+107
+00:14:53.030 --> 00:15:01.790
+Carly Huitema (University of Guelph): There are 3 task force updates now. So, number 1, Governance Architecture, they are putting it as a pause on the calendar, but holding the spot.
+
+108
+00:15:02.970 --> 00:15:22.479
+Carly Huitema (University of Guelph): Bite Size Trust. I'm in the midst of trying to work on some scripts, because Trust Query Protocol is coming up to the 1.0 release, and it'd be great to have some scripts associated with that, and I'm looking for feedback. I posted one in the Trust Registry Query… I mean, it's on the Bite Size Trust document.
+
+109
+00:15:22.720 --> 00:15:29.679
+Carly Huitema (University of Guelph): and then number 3, there is a third task force under Ecosystem and Governance.
+
+110
+00:15:29.830 --> 00:15:35.779
+Carly Huitema (University of Guelph): And that new task force is the reporting task force.
+
+111
+00:15:36.260 --> 00:15:38.110
+Eric Drury (Forth Consulting): Yeah, I was gonna ask about that, okay.
+
+112
+00:15:38.450 --> 00:15:42.489
+Carly Huitema (University of Guelph): Yeah, so the reporting task force, right now,
+
+113
+00:15:43.570 --> 00:15:50.969
+Carly Huitema (University of Guelph): The… so this task force chairs will need to, be ready, because reporting is coming up.
+
+114
+00:15:51.120 --> 00:15:56.490
+Carly Huitema (University of Guelph): Reporting for everyone is coming up. We always schedule it now, right before IIW.
+
+115
+00:15:57.400 --> 00:16:02.059
+Carly Huitema (University of Guelph): And it's for both the All Members Meeting slides.
+
+116
+00:16:02.260 --> 00:16:06.109
+Carly Huitema (University of Guelph): and the TAC, Technical Advisory Committee, report.
+
+117
+00:16:06.260 --> 00:16:16.320
+Carly Huitema (University of Guelph): So, I'm coordinating with Thomas, The, in the reporting working group, we came up with, like, a prompt.
+
+118
+00:16:16.940 --> 00:16:30.209
+Carly Huitema (University of Guelph): So then, the different members, different, different ecosystem working groups, sorry, different working groups and task forces can either use the prompt or discuss manually to pull together the content.
+
+119
+00:16:30.390 --> 00:16:31.800
+Carly Huitema (University of Guelph): for the TAC.
+
+120
+00:16:32.790 --> 00:16:36.810
+Carly Huitema (University of Guelph): So that should be coming out in an email from Thomas.
+
+121
+00:16:37.320 --> 00:16:40.479
+Steven Milstein: Carly, what do you… I asked, what are you prompting?
+
+122
+00:16:41.070 --> 00:16:46.970
+Carly Huitema (University of Guelph): It's a… it's a… it's a skill, so it'd be like…
+
+123
+00:16:47.740 --> 00:16:54.489
+Carly Huitema (University of Guelph): there's a report, and you can fill out the notes about the report manually, and then send them back to Tomas.
+
+124
+00:16:55.090 --> 00:16:56.650
+Carly Huitema (University of Guelph): Or…
+
+125
+00:16:56.650 --> 00:16:59.380
+Steven Milstein: Where is the content coming from? That's… I don't understand the…
+
+126
+00:16:59.380 --> 00:17:06.900
+Carly Huitema (University of Guelph): That would be… it would be from… from… it depends on which work… what the working group uses. So, for example, for Ecosystem and…
+
+127
+00:17:07.150 --> 00:17:14.980
+Carly Huitema (University of Guelph): Governance, we would probably take it from our Confluence notes, or the meeting transcripts.
+
+128
+00:17:15.520 --> 00:17:24.420
+Carly Huitema (University of Guelph): or… and… or, if we have anything on GitHub. So, because different working groups have their conversations happening in different places.
+
+129
+00:17:24.589 --> 00:17:25.180
+Carly Huitema (University of Guelph): So.
+
+130
+00:17:25.180 --> 00:17:37.580
+Steven Milstein: Okay, well, in our case, right, we're not too good at… we don't bother with note-taking, so it would have to be the transcripts. So now, you want to take the transcripts from all the calls, and… Yeah.
+
+131
+00:17:38.670 --> 00:17:41.359
+Steven Milstein: what, put them into Google Notebook LM?
+
+132
+00:17:41.910 --> 00:17:47.549
+Carly Huitema (University of Guelph): Yeah, I guess, and then try with the skill, but, like, we're… we have never…
+
+133
+00:17:47.820 --> 00:17:56.120
+Carly Huitema (University of Guelph): We've never tried this before, and I was trying… I was trying to make it easier for everybody. You can also take from the steering committee meeting minutes.
+
+134
+00:17:56.530 --> 00:18:00.410
+Carly Huitema (University of Guelph): If there is anything that was discussed there, use that as another source.
+
+135
+00:18:01.530 --> 00:18:05.569
+Carly Huitema (University of Guelph): And, but there is the manual, the human version of it.
+
+136
+00:18:06.610 --> 00:18:08.970
+Carly Huitema (University of Guelph): And you can also Welcome.
+
+137
+00:18:09.870 --> 00:18:13.529
+Eric Drury (Forth Consulting): There's this thing called Rosie as well, right? Can't we feed it into Rosie?
+
+138
+00:18:14.150 --> 00:18:16.320
+Steven Milstein: Rosie's mine.
+
+139
+00:18:17.760 --> 00:18:18.190
+Eric Drury (Forth Consulting): You don't like.
+
+140
+00:18:18.190 --> 00:18:26.450
+Carly Huitema (University of Guelph): So here's… This is the… The drafts of the… the human…
+
+141
+00:18:27.770 --> 00:18:34.940
+Carly Huitema (University of Guelph): So, we've had a… we've had a, A, a form before?
+
+142
+00:18:35.520 --> 00:18:37.810
+Carly Huitema (University of Guelph): So if you want to just fill this out.
+
+143
+00:18:38.440 --> 00:18:41.280
+Carly Huitema (University of Guelph): Here, while you sit in a meeting and talk.
+
+144
+00:18:42.080 --> 00:18:49.069
+Steven Milstein: So if you want to lead by example for other groups, right, we should probably try to do that ourselves first, and then say, this is how we did it.
+
+145
+00:18:49.220 --> 00:18:52.379
+Steven Milstein: Yeah. And I think the, most consistent
+
+146
+00:18:52.680 --> 00:18:56.970
+Steven Milstein: Way to do it would just to, say, download all the transcripts.
+
+147
+00:18:57.340 --> 00:18:58.080
+Carly Huitema (University of Guelph): Yep.
+
+148
+00:18:58.330 --> 00:19:01.889
+Steven Milstein: Put them, I would say, Notebook LM,
+
+149
+00:19:02.020 --> 00:19:07.319
+Steven Milstein: The only ones that would repeat… I don't even think you would want to inter… inter…
+
+150
+00:19:08.020 --> 00:19:21.209
+Steven Milstein: fear with, let's say, steering committee notes in your working group notes. I think you should keep it. Here's my working group, here's all the transcripts, and you could say whatever prompt you want to come up with, whatever you need.
+
+151
+00:19:21.210 --> 00:19:21.730
+Carly Huitema (University of Guelph): Well, and then…
+
+152
+00:19:21.730 --> 00:19:26.609
+Steven Milstein: You play with it like that, and then you say, or you say, fill out this report for me.
+
+153
+00:19:26.800 --> 00:19:33.660
+Steven Milstein: Right? I don't… So, if you have a look at the… I'm surprised that within… Zoom…
+
+154
+00:19:34.120 --> 00:19:42.540
+Steven Milstein: since it does have the AI note-taking, I would have imagined that it would have this kind of ability somewhere within Zoom.
+
+155
+00:19:43.850 --> 00:19:46.339
+Carly Huitema (University of Guelph): Yeah, it does… I don't know where the…
+
+156
+00:19:46.990 --> 00:19:51.449
+Eric Drury (Forth Consulting): where the transcripts are saved. So the transcripts are saved as, what, like .VTT or something?
+
+157
+00:19:52.230 --> 00:20:04.929
+Steven Milstein: Right, I mean, but you have to go and download every VTT individually and do it. I'm saying, since Zoom already has the note-taking capability, and since Zoom already has the transcripts, it seems like
+
+158
+00:20:05.070 --> 00:20:14.640
+Steven Milstein: Zoom would be the one to best say, if you… if there is a way, and I don't… I don't have a Zoom account myself, so… but LFDT would certainly know this, most of the.
+
+159
+00:20:14.640 --> 00:20:15.090
+Carly Huitema (University of Guelph): Yeah.
+
+160
+00:20:15.090 --> 00:20:21.189
+Steven Milstein: done is probably available somehow through Zoom, and we just don't know the right door to open.
+
+161
+00:20:21.500 --> 00:20:22.920
+Carly Huitema (University of Guelph): That's step two.
+
+162
+00:20:23.260 --> 00:20:35.450
+Carly Huitema (University of Guelph): So we're trying to do it to be more automated, but that's a… that requires a pipeline and… and access to Zoom accounts and stuff like that. So, absolutely, that would be…
+
+163
+00:20:35.650 --> 00:20:44.250
+Carly Huitema (University of Guelph): So I'm looking at… so if you… if you look at your meeting dashboard,
+
+164
+00:20:45.170 --> 00:20:46.909
+Carly Huitema (University of Guelph): Let me, let me,
+
+165
+00:20:47.860 --> 00:20:48.700
+Eric Drury (Forth Consulting): So…
+
+166
+00:20:49.310 --> 00:20:55.739
+Carly Huitema (University of Guelph): If you, if you go to the meeting dashboard, Yeah, exactly. In past meetings.
+
+167
+00:20:58.090 --> 00:20:58.520
+Eric Drury (Forth Consulting): Oh, okay.
+
+168
+00:20:58.520 --> 00:21:01.339
+Steven Milstein: look at the recording, download the VTT file.
+
+169
+00:21:01.340 --> 00:21:03.770
+Carly Huitema (University of Guelph): And down the AI summary as well.
+
+170
+00:21:04.270 --> 00:21:05.150
+Steven Milstein: Okay.
+
+171
+00:21:05.150 --> 00:21:07.400
+Carly Huitema (University of Guelph): If you want to download the summary.
+
+172
+00:21:08.390 --> 00:21:16.949
+Steven Milstein: In my opinion, I would take the whole transcript, not the AI summary, because the summary is somewhat compacted.
+
+173
+00:21:17.640 --> 00:21:18.210
+Carly Huitema (University of Guelph): Yeah.
+
+174
+00:21:18.210 --> 00:21:22.439
+Steven Milstein: So, once you're letting it consume all that content, I would say…
+
+175
+00:21:22.810 --> 00:21:31.490
+Steven Milstein: If you want to try it manually, it's not hard. I mean, we could do it for a few months, just test it, download it, put it into Notebook LM,
+
+176
+00:21:31.940 --> 00:21:36.210
+Steven Milstein: And then give it the form that you want filled, and say, fill out the form.
+
+177
+00:21:36.690 --> 00:21:46.219
+Carly Huitema (University of Guelph): I… there's a… there is a… there is a prompt that we use, and I shared that in there as well, so it's the second link in… of the docs.
+
+178
+00:21:46.370 --> 00:21:57.659
+Carly Huitema (University of Guelph): So that one had… it was more than just filling out the form, and that came from the work that we were doing the last time when we wrote the TAC report. Drummond and me, and then…
+
+179
+00:21:59.070 --> 00:22:00.680
+Carly Huitema (University of Guelph): Shoot, what's her name?
+
+180
+00:22:01.050 --> 00:22:10.660
+Carly Huitema (University of Guelph): on the TAC, she wrote that. So, so… so it's a bit… it has a bit more than just, here are the headings, fill it out.
+
+181
+00:22:11.040 --> 00:22:16.790
+Eric Drury (Forth Consulting): Okay, so this will be, all this will be worked through in the task force. When is the task force?
+
+182
+00:22:18.380 --> 00:22:19.419
+Carly Huitema (University of Guelph): The top…
+
+183
+00:22:19.420 --> 00:22:19.740
+Eric Drury (Forth Consulting): That's.
+
+184
+00:22:19.740 --> 00:22:20.350
+Carly Huitema (University of Guelph): speed.
+
+185
+00:22:20.350 --> 00:22:23.320
+Eric Drury (Forth Consulting): Okay, this, this, this, mr.
+
+186
+00:22:23.320 --> 00:22:35.660
+Carly Huitema (University of Guelph): Yeah, we could… so, in the task force, then, next week, it's… right now, it's still meeting once a week. We could meet and… and test that out with, Ecosystem.
+
+187
+00:22:35.660 --> 00:22:38.769
+Eric Drury (Forth Consulting): But when… when is it? When on the calendar is it?
+
+188
+00:22:38.940 --> 00:22:48.560
+Carly Huitema (University of Guelph): Yeah, it is… 12 till 1 p.m. on Wednesday. Eastern? Eastern time.
+
+189
+00:22:49.720 --> 00:22:51.419
+Eric Drury (Forth Consulting): On Wednesday? What'd you say, Wednesdays?
+
+190
+00:22:51.420 --> 00:22:53.230
+Carly Huitema (University of Guelph): Wednesdays, yeah.
+
+191
+00:22:54.710 --> 00:22:55.350
+Eric Drury (Forth Consulting): Okay.
+
+192
+00:22:56.480 --> 00:23:08.300
+Carly Huitema (University of Guelph): And then the other thing is that we are, trying to work with other Linux Foundation members to come up with a more automated pipeline.
+
+193
+00:23:11.270 --> 00:23:12.710
+Eric Drury (Forth Consulting): the invitation…
+
+194
+00:23:13.330 --> 00:23:21.770
+Eric Drury (Forth Consulting): So, Makki, I think you go to… do you have the link? Does everybody have the link to these, your individual dashboard?
+
+195
+00:23:22.320 --> 00:23:24.559
+Eric Drury (Forth Consulting): No, actually, it's not that one, it's this one.
+
+196
+00:23:27.050 --> 00:23:33.419
+Eric Drury (Forth Consulting): So you just go to the Linux LF… The calendar.
+
+197
+00:23:33.420 --> 00:23:33.725
+Carly Huitema (University of Guelph): Oh.
+
+198
+00:23:35.850 --> 00:23:36.270
+Eric Drury (Forth Consulting): Yeah, Sarah.
+
+199
+00:23:36.270 --> 00:23:37.580
+Carly Huitema (University of Guelph): There I am.
+
+200
+00:23:37.950 --> 00:23:38.930
+Eric Drury (Forth Consulting): So, reporting…
+
+201
+00:23:38.930 --> 00:23:41.140
+Carly Huitema (University of Guelph): Does it have a send invitation?
+
+202
+00:23:41.430 --> 00:23:45.249
+Eric Drury (Forth Consulting): And you can… Let me see… can you do…
+
+203
+00:23:45.250 --> 00:23:49.140
+Carly Huitema (University of Guelph): I did that… yeah, I don't know how to add another invitation.
+
+204
+00:23:50.060 --> 00:23:51.089
+Eric Drury (Forth Consulting): Okay, no.
+
+205
+00:23:51.730 --> 00:23:52.500
+Eric Drury (Forth Consulting): Fair.
+
+206
+00:23:54.050 --> 00:23:54.520
+Eric Drury (Forth Consulting): I eat.
+
+207
+00:23:54.520 --> 00:23:55.140
+Carly Huitema (University of Guelph): Yeah.
+
+208
+00:23:56.100 --> 00:23:58.360
+Carly Huitema (University of Guelph): Or are those past meetings?
+
+209
+00:23:58.840 --> 00:24:01.289
+Carly Huitema (University of Guelph): So maybe go to the future meeting.
+
+210
+00:24:01.640 --> 00:24:03.410
+Carly Huitema (University of Guelph): And maybe there's a…
+
+211
+00:24:06.050 --> 00:24:08.879
+Steven Milstein: Are you in the public calendar, or you're a signed-in one?
+
+212
+00:24:09.670 --> 00:24:10.440
+Eric Drury (Forth Consulting): What's that?
+
+213
+00:24:11.020 --> 00:24:13.490
+Steven Milstein: Are you in the public calendar, or…
+
+214
+00:24:13.490 --> 00:24:15.160
+Eric Drury (Forth Consulting): I think I'm in the public one.
+
+215
+00:24:15.600 --> 00:24:17.249
+Eric Drury (Forth Consulting): I think I'm in the public one.
+
+216
+00:24:19.020 --> 00:24:19.820
+Eric Drury (Forth Consulting): Well, that should…
+
+217
+00:24:19.820 --> 00:24:21.889
+Steven Milstein: Still allow you to add a meeting.
+
+218
+00:24:22.260 --> 00:24:27.470
+Eric Drury (Forth Consulting): So, let's go to Wednesday, right there. Yeah, and then register.
+
+219
+00:24:27.470 --> 00:24:28.410
+Carly Huitema (University of Guelph): Register, yeah.
+
+220
+00:24:28.410 --> 00:24:30.899
+Eric Drury (Forth Consulting): Go for a future meeting, and you register.
+
+221
+00:24:31.360 --> 00:24:37.249
+Eric Drury (Forth Consulting): And then, I think at that point, it's in all of your…
+
+222
+00:24:38.340 --> 00:24:45.719
+Eric Drury (Forth Consulting): all of your… all the meetings will then populate to your calendar, I believe, to your personal calendar, but I'm not sure.
+
+223
+00:24:45.720 --> 00:24:50.230
+Neil Thomson (QueryVision): Yeah, that's correct. I did that initially, yeah.
+
+224
+00:24:50.500 --> 00:24:51.120
+Neil Thomson (QueryVision): Yep.
+
+225
+00:24:51.120 --> 00:24:51.680
+Eric Drury (Forth Consulting): Okay.
+
+226
+00:24:54.400 --> 00:24:58.260
+Neil Thomson (QueryVision): So, question to Carly, what is… what technology is the skill assuming?
+
+227
+00:24:58.980 --> 00:25:08.209
+Carly Huitema (University of Guelph): Frontier AI model that you can publicly access, and I've made a free account on one of them, on ChatGPT, and…
+
+228
+00:25:08.550 --> 00:25:11.500
+Carly Huitema (University of Guelph): Gave it the skill, and gave it some of the files, and…
+
+229
+00:25:11.830 --> 00:25:17.769
+Carly Huitema (University of Guelph): But Google LLM would probably also… Notebook LM, sorry, would also probably work.
+
+230
+00:25:21.130 --> 00:25:23.810
+Carly Huitema (University of Guelph): But it can also be done manually.
+
+231
+00:25:24.400 --> 00:25:27.719
+Carly Huitema (University of Guelph): The group can just sit and try and remember what they did.
+
+232
+00:25:30.900 --> 00:25:36.939
+Carly Huitema (University of Guelph): It was just that the AI skill was to try and smooth it out, make it a bit easier if people had…
+
+233
+00:25:36.940 --> 00:25:40.579
+Steven Milstein: We also want to be consistent, right, across the groups. Everyone should be…
+
+234
+00:25:41.080 --> 00:25:47.699
+Steven Milstein: Using the same inputs and hopefully the same prompt to get the same… so the results can coalesce, at least.
+
+235
+00:25:48.090 --> 00:25:59.209
+Carly Huitema (University of Guelph): Yeah, I mean, we're gonna keep trying. This is a continually improving system, because up until now, it's been Drummond and me. Yeah. Trying to remember.
+
+236
+00:25:59.600 --> 00:26:00.339
+Eric Drury (Forth Consulting): Okay, so.
+
+237
+00:26:00.340 --> 00:26:03.169
+Steven Milstein: Have you asked Linux Foundation if there is…
+
+238
+00:26:03.170 --> 00:26:03.830
+Neil Thomson (QueryVision): Two years ago.
+
+239
+00:26:04.110 --> 00:26:05.660
+Steven Milstein: feature that we're working on that.
+
+240
+00:26:06.180 --> 00:26:08.260
+Carly Huitema (University of Guelph): We're working on that.
+
+241
+00:26:08.260 --> 00:26:10.810
+Eric Drury (Forth Consulting): Join the Wednesday task force.
+
+242
+00:26:11.410 --> 00:26:14.630
+Eric Drury (Forth Consulting): And you… that's where you're going to be working through all these questions, right?
+
+243
+00:26:15.100 --> 00:26:20.490
+Carly Huitema (University of Guelph): Technically, I mean, technically, Ecosystems should do it on their own.
+
+244
+00:26:20.840 --> 00:26:22.249
+Eric Drury (Forth Consulting): Yeah, I know, but…
+
+245
+00:26:22.250 --> 00:26:32.119
+Carly Huitema (University of Guelph): But… but I'm gonna… so… so the next meeting, then, we're gonna discuss the proposal from AIFAQ about running our own
+
+246
+00:26:34.900 --> 00:26:43.999
+Carly Huitema (University of Guelph): reg, running our own RAG, and what it would take to run that at Linux Foundation, and also then we can test,
+
+247
+00:26:44.330 --> 00:26:46.520
+Carly Huitema (University of Guelph): Ecosystem at the same time.
+
+248
+00:26:48.040 --> 00:26:48.640
+Eric Drury (Forth Consulting): Okay.
+
+249
+00:26:50.160 --> 00:27:05.899
+Eric Drury (Forth Consulting): But at the moment, we don't… yeah, so we don't take notes, we're just relying on transcripts, and so however we feed those transcripts into… I mean, it shouldn't be difficult, you just say, listen, this is what I want, the output, take all the… take all of the transcripts and fill it in.
+
+250
+00:27:06.660 --> 00:27:07.450
+Carly Huitema (University of Guelph): Yep.
+
+251
+00:27:10.950 --> 00:27:11.910
+Eric Drury (Forth Consulting): So, okay.
+
+252
+00:27:13.110 --> 00:27:16.340
+Eric Drury (Forth Consulting): All right, thank you. So, any other task force updates?
+
+253
+00:27:21.000 --> 00:27:26.219
+Carly Huitema (University of Guelph): Oh, and the official name of the task force is Reporting Tools Task Force.
+
+254
+00:27:27.970 --> 00:27:32.969
+Neil Thomson (QueryVision): All right, so just, just a note, I, I took the action item to,
+
+255
+00:27:33.150 --> 00:27:41.390
+Neil Thomson (QueryVision): Ask for the changes for both the Governance Architecture Group and the data modeling group, in terms of, quote, suspending them.
+
+256
+00:27:41.570 --> 00:27:47.799
+Neil Thomson (QueryVision): So, I'll be feeding the details. The intent would be to… have notes hosted on Discord.
+
+257
+00:27:48.310 --> 00:28:07.829
+Neil Thomson (QueryVision): Specifically in those channels, and also, quote, suspend the Discord channels. I need to have some technical discussions with people what that means. But that's the intent. So, you know, they're not dead, they're there. It's not that it's so much going to be suspended, it's that they're both going to move from regular to on-demand.
+
+258
+00:28:08.310 --> 00:28:10.690
+Eric Drury (Forth Consulting): Which, which task force are these?
+
+259
+00:28:11.590 --> 00:28:15.440
+Neil Thomson (QueryVision): The data modeling and the, architectural,
+
+260
+00:28:15.880 --> 00:28:20.219
+Neil Thomson (QueryVision): Ecosystem architecture task force under John Phillips and Company.
+
+261
+00:28:22.010 --> 00:28:23.510
+Eric Drury (Forth Consulting): The Governance on this one.
+
+262
+00:28:24.140 --> 00:28:24.740
+Neil Thomson (QueryVision): Yes.
+
+263
+00:28:25.170 --> 00:28:31.909
+Eric Drury (Forth Consulting): Okay, so data modeling, so, so, oop dirt, alright.
+
+264
+00:28:33.280 --> 00:28:38.840
+Eric Drury (Forth Consulting): So, both of these… are pausing.
+
+265
+00:28:39.510 --> 00:28:40.200
+Eric Drury (Forth Consulting): Right?
+
+266
+00:28:41.330 --> 00:28:41.989
+Eric Drury (Forth Consulting): We're not…
+
+267
+00:28:41.990 --> 00:28:47.909
+Neil Thomson (QueryVision): They're pausing, they're just going from regularly scheduled, show up and you'll have something, to on-demand.
+
+268
+00:28:48.670 --> 00:28:49.460
+Neil Thomson (QueryVision): Right.
+
+269
+00:28:49.460 --> 00:28:49.780
+Eric Drury (Forth Consulting): Okay.
+
+270
+00:28:49.780 --> 00:29:03.440
+Neil Thomson (QueryVision): So we're not getting rid of the time slot, we're not going to drop them, we're just going to say these things are not… you know, don't show up assuming the meeting's happening, they're on demand, so expect an explicit posting in Discord about an upcoming schedule.
+
+271
+00:29:03.830 --> 00:29:05.690
+Neil Thomson (QueryVision): Okay. For upcoming meeting.
+
+272
+00:29:06.450 --> 00:29:07.750
+Neil Thomson (QueryVision): So that's a regional?
+
+273
+00:29:08.330 --> 00:29:09.930
+Eric Drury (Forth Consulting): Yep, yep, got it.
+
+274
+00:29:12.080 --> 00:29:16.189
+Eric Drury (Forth Consulting): We may eventually move that way if we don't, get our…
+
+275
+00:29:16.450 --> 00:29:20.000
+Eric Drury (Forth Consulting): Act together. So, let's, see what we got here.
+
+276
+00:29:22.370 --> 00:29:45.690
+Eric Drury (Forth Consulting): Okay, so let's go ahead. So this is, you know, we've been talking for a couple months about the direction and where we want to go, and the feedback that we've gotten is that we should really… it's time to look at the Governance Metal Model, which is, I think, 5 years old. It doesn't account for things like AI and agents. It's, as these trust frameworks are becoming a little bit more mature.
+
+277
+00:29:45.690 --> 00:29:51.629
+Eric Drury (Forth Consulting): And the GLIFE framework, for example, or the VLEI Governance Framework.
+
+278
+00:29:51.630 --> 00:29:54.589
+Eric Drury (Forth Consulting): Having gone through a couple of iterations, it's…
+
+279
+00:29:54.640 --> 00:30:03.460
+Eric Drury (Forth Consulting): it's a good time to assess. And so, that has been the consensus of the working group and people who've made their
+
+280
+00:30:03.790 --> 00:30:06.889
+Eric Drury (Forth Consulting): thoughts known that they'd like to work on this, and so…
+
+281
+00:30:07.430 --> 00:30:09.569
+Eric Drury (Forth Consulting): The question is, how do we do that?
+
+282
+00:30:10.170 --> 00:30:15.420
+Eric Drury (Forth Consulting): And, so we've got here in this, in this,
+
+283
+00:30:16.950 --> 00:30:30.819
+Eric Drury (Forth Consulting): little box, some links to the, the VLEI Governance Framework. We've got this, document here that, that John Phillips has
+
+284
+00:30:31.960 --> 00:30:38.319
+Eric Drury (Forth Consulting): asked… various AI Gemini, ChatGPT, Grok.
+
+285
+00:30:39.250 --> 00:30:41.670
+Eric Drury (Forth Consulting): Claude. I don't know what system is.
+
+286
+00:30:42.530 --> 00:30:46.169
+Eric Drury (Forth Consulting): Grok and Claude. He's asked them to…
+
+287
+00:30:46.500 --> 00:30:49.730
+Eric Drury (Forth Consulting): To, assess the governance framework
+
+288
+00:30:50.740 --> 00:30:53.689
+Eric Drury (Forth Consulting): And you see the prompt here. Does there have that…
+
+289
+00:30:53.940 --> 00:30:57.259
+Eric Drury (Forth Consulting): I'll put that in the meeting link here.
+
+290
+00:30:59.630 --> 00:31:02.480
+Eric Drury (Forth Consulting): So, this is something we can review.
+
+291
+00:31:03.730 --> 00:31:04.930
+Eric Drury (Forth Consulting): on this call.
+
+292
+00:31:05.410 --> 00:31:07.520
+Eric Drury (Forth Consulting): Let me go back to this thing.
+
+293
+00:31:07.920 --> 00:31:12.420
+Eric Drury (Forth Consulting): And then we've got, Sankarshan, who has put…
+
+294
+00:31:13.370 --> 00:31:18.009
+Eric Drury (Forth Consulting): this together, I think. Is that right, Sankarshan? Are you the author? Sankarshan still with us?
+
+295
+00:31:19.390 --> 00:31:20.920
+Neil Thomson (QueryVision): Nope, not that I can see.
+
+296
+00:31:21.190 --> 00:31:25.760
+Eric Drury (Forth Consulting): Okay, so Sankarshan put this together, Governance Authority and Assurance Metamodel.
+
+297
+00:31:26.790 --> 00:31:29.350
+Eric Drury (Forth Consulting): So we could go through this, and…
+
+298
+00:31:29.880 --> 00:31:36.929
+Eric Drury (Forth Consulting): See if there's things here that can then be… Bed into the updated metamodel.
+
+299
+00:31:37.370 --> 00:31:43.489
+Eric Drury (Forth Consulting): And this has a, you know, GitHub repository where you can see all of,
+
+300
+00:31:45.400 --> 00:31:47.750
+Eric Drury (Forth Consulting): These things, if you want to look at none.
+
+301
+00:31:48.180 --> 00:31:49.180
+Eric Drury (Forth Consulting): Version?
+
+302
+00:31:51.460 --> 00:31:52.640
+Eric Drury (Forth Consulting): So…
+
+303
+00:31:52.810 --> 00:32:02.639
+Eric Drury (Forth Consulting): So that's… that's the focus. Now the question again is, how do we do it? You know, what's the approach to going through this? Is it just a really…
+
+304
+00:32:03.330 --> 00:32:10.159
+Eric Drury (Forth Consulting): Methodical, take a look at the meta model, go through the table of contents, go through it piece by piece.
+
+305
+00:32:10.580 --> 00:32:14.629
+Eric Drury (Forth Consulting): what would people suggest? And I guess I should pull up the meta model, right?
+
+306
+00:32:21.740 --> 00:32:22.350
+Steven Milstein: Right?
+
+307
+00:32:22.490 --> 00:32:27.189
+Steven Milstein: I think based on discussions we've had with Carla, is that it would be great if she…
+
+308
+00:32:27.360 --> 00:32:29.759
+Steven Milstein: I believe she has a bunch of notes.
+
+309
+00:32:30.500 --> 00:32:38.090
+Steven Milstein: on what changes are required, because if we just go through it from the beginning to end, we're probably gonna go, yeah, that's good. Yeah, I like that.
+
+310
+00:32:38.530 --> 00:32:41.890
+Steven Milstein: So, since she actually has real-world experience.
+
+311
+00:32:42.980 --> 00:32:44.919
+Steven Milstein: We should start with her feedback.
+
+312
+00:32:46.200 --> 00:32:52.760
+Steven Milstein: As, maybe new requirements, and then go and update the… model afterwards.
+
+313
+00:32:53.320 --> 00:33:01.319
+Steven Milstein: I don't… personally, if we just review it, I don't have real-world experience with it. I couldn't say, yeah, this is no longer valid, or…
+
+314
+00:33:01.550 --> 00:33:03.680
+Steven Milstein: We didn't… we skimped on this.
+
+315
+00:33:04.630 --> 00:33:05.380
+Eric Drury (Forth Consulting): Okay.
+
+316
+00:33:06.350 --> 00:33:13.949
+Eric Drury (Forth Consulting): So that's… so that's a sort of the glyph-led… approach. Any other… Suggestions? Or approaches?
+
+317
+00:33:17.580 --> 00:33:19.630
+Steven Milstein: Have we found anybody else using it?
+
+318
+00:33:19.780 --> 00:33:20.990
+Steven Milstein: Scott?
+
+319
+00:33:22.170 --> 00:33:22.880
+Eric Drury (Forth Consulting): I've added…
+
+320
+00:33:22.880 --> 00:33:25.339
+Steven Milstein: I must have its own amendments in mind.
+
+321
+00:33:25.980 --> 00:33:36.189
+Eric Drury (Forth Consulting): I've asked the Bhutan NDI folks, and they said, yeah, yeah, we're using it. It's like, wow, you know, how exactly? And they're supposed to get back to me. But…
+
+322
+00:33:37.000 --> 00:33:41.120
+Eric Drury (Forth Consulting): I don't think… I don't think they're using it.
+
+323
+00:33:41.860 --> 00:33:45.460
+Eric Drury (Forth Consulting): word for word. I think they were inspired by it, and used it.
+
+324
+00:33:45.460 --> 00:33:47.130
+Steven Milstein: They're using it in spirit.
+
+325
+00:33:47.540 --> 00:33:49.200
+Steven Milstein: Right.
+
+326
+00:33:49.200 --> 00:33:49.990
+Eric Drury (Forth Consulting): For example…
+
+327
+00:33:49.990 --> 00:33:59.049
+Steven Milstein: I said he's used it, right? So he must have his own notes as to what updates he'd want to make anyway. I mean, that's a… to me, would be the straight from the horse's mouth.
+
+328
+00:34:00.710 --> 00:34:13.030
+Eric Drury (Forth Consulting): So here, I mean, let's look at this, this first one. If we said that the primary document, alright, it's the home page for the Governance Framework, it must have a DID, is that, I mean, is that something that is…
+
+329
+00:34:14.440 --> 00:34:22.069
+Eric Drury (Forth Consulting): you know, still relevant? Does it have to be a DID, or do we want to update it to VID?
+
+330
+00:34:22.320 --> 00:34:23.609
+Eric Drury (Forth Consulting): Which is the higher class.
+
+331
+00:34:23.610 --> 00:34:26.410
+Steven Milstein: Do any dogs… do any dogs have a DID?
+
+332
+00:34:26.770 --> 00:34:27.850
+Steven Milstein: WorkVid.
+
+333
+00:34:27.969 --> 00:34:35.159
+Steven Milstein: Do any of the docs, any of the specifications delivered, any deliverables, do any of them actually have a real life DID?
+
+334
+00:34:35.409 --> 00:34:36.069
+Eric Drury (Forth Consulting): Well, they should.
+
+335
+00:34:36.070 --> 00:34:42.209
+Steven Milstein: I guess they have a Shaw from GitHub, right? But I don't know if they have a,
+
+336
+00:34:42.860 --> 00:34:44.429
+Steven Milstein: Triangular did.
+
+337
+00:34:45.100 --> 00:34:46.480
+Eric Drury (Forth Consulting): Oh, that's the question.
+
+338
+00:34:46.480 --> 00:34:46.989
+Steven Milstein: Fit.
+
+339
+00:34:47.469 --> 00:34:53.850
+Steven Milstein: That was probably, nice to have, not a must.
+
+340
+00:34:54.110 --> 00:35:02.989
+Steven Milstein: That was wish… that was inspirational, I think, when it was originally written 7 years ago. That was the inspiration, that, oh yeah, every dog should ever did.
+
+341
+00:35:03.870 --> 00:35:08.920
+Eric Drury (Forth Consulting): Okay, but… so that, yeah, so that's the… I guess, the conversation we should have as a group is
+
+342
+00:35:09.110 --> 00:35:13.449
+Eric Drury (Forth Consulting): Is that something that should be updated to say that it should have a…
+
+343
+00:35:14.030 --> 00:35:22.459
+Eric Drury (Forth Consulting): so the Trust Spanning Protocol, I think, and maybe even the Trust Registry Query Protocol, have introduced the concept of a VID, right?
+
+344
+00:35:22.580 --> 00:35:30.230
+Eric Drury (Forth Consulting): So it's a verifiable identifier as a sort of an overarching class, and within the VIDs, you've got DIDs, you've got
+
+345
+00:35:30.550 --> 00:35:31.280
+Eric Drury (Forth Consulting): beds.
+
+346
+00:35:31.280 --> 00:35:33.899
+Carly Huitema (University of Guelph): The IDs, the autonomic identifiers.
+
+347
+00:35:34.080 --> 00:35:39.749
+Eric Drury (Forth Consulting): And even X509s are verifiable, but they're not decentralized. So, should we…
+
+348
+00:35:40.000 --> 00:35:45.250
+Eric Drury (Forth Consulting): update this document to say that, the Governance Framework must have a VID.
+
+349
+00:35:50.660 --> 00:35:52.849
+Carly Huitema (University of Guelph): Does Glythe give it a dig?
+
+350
+00:35:54.770 --> 00:35:55.229
+Eric Drury (Forth Consulting): I don't know.
+
+351
+00:35:55.230 --> 00:35:57.160
+Carly Huitema (University of Guelph): Has Glythe given it a dig?
+
+352
+00:35:58.290 --> 00:36:01.280
+Eric Drury (Forth Consulting): Yeah, so I guess, how do we do… yeah, do we want to actually just…
+
+353
+00:36:02.380 --> 00:36:07.970
+Eric Drury (Forth Consulting): I mean, because these are good questions that we should go back to, and somebody should take notes.
+
+354
+00:36:08.680 --> 00:36:10.260
+Eric Drury (Forth Consulting): Maybe I should take notes.
+
+355
+00:36:11.010 --> 00:36:14.130
+Eric Drury (Forth Consulting): Does glide.
+
+356
+00:36:15.090 --> 00:36:24.350
+Eric Drury (Forth Consulting): give… the… the LEI Governance Framework A did. Okay, that's a question.
+
+357
+00:36:26.790 --> 00:36:27.620
+Eric Drury (Forth Consulting): Okay.
+
+358
+00:36:28.630 --> 00:36:34.519
+Eric Drury (Forth Consulting): And then… Let's do this.
+
+359
+00:36:36.610 --> 00:36:39.560
+Eric Drury (Forth Consulting): What if… Oh, Lord.
+
+360
+00:36:44.550 --> 00:36:55.730
+Eric Drury (Forth Consulting): Should we update… Must have a bid to VID.
+
+361
+00:36:56.150 --> 00:36:56.920
+Eric Drury (Forth Consulting): Okay.
+
+362
+00:37:07.590 --> 00:37:13.889
+Eric Drury (Forth Consulting): Yeah, so, I mean, these are the kind of things, I mean, we kind of have to either ask an AI to go through it, like John did.
+
+363
+00:37:14.100 --> 00:37:24.410
+Eric Drury (Forth Consulting): And say, you know, what's missing, where are the gaps, and that will be a little bit more comprehensive. Or we just go through it methodically and say, you know, what are our opinions?
+
+364
+00:37:25.600 --> 00:37:27.829
+Eric Drury (Forth Consulting): Or we wait for a glyph to lead.
+
+365
+00:37:32.980 --> 00:37:35.890
+Eric Drury (Forth Consulting): So, Steven, you're voting for Glyif. Anybody else?
+
+366
+00:37:36.970 --> 00:37:44.480
+Neil Thomson (QueryVision): Well, I mean, to some extent, there are huge numbers of documents have been thrown around in this discussion. We need a catalog,
+
+367
+00:37:44.770 --> 00:37:55.719
+Neil Thomson (QueryVision): I've tried to capture them as we're going through here, but I don't have that catalog. Using Glyif as probably somebody who's had to think this through commercially.
+
+368
+00:37:55.860 --> 00:37:56.479
+Neil Thomson (QueryVision): As a leader.
+
+369
+00:37:56.890 --> 00:38:03.900
+Neil Thomson (QueryVision): that we found is actually a requirement and not. I suspect that the combination of two is going to be very fruitful.
+
+370
+00:38:05.740 --> 00:38:09.370
+Neil Thomson (QueryVision): Carlos, nothing if not thorough.
+
+371
+00:38:09.550 --> 00:38:15.580
+Neil Thomson (QueryVision): So, you know, what's that look like going forward? But, you know, we need to have a repository of all the
+
+372
+00:38:16.090 --> 00:38:18.250
+Neil Thomson (QueryVision): Information that we're dealing with here.
+
+373
+00:38:19.880 --> 00:38:20.490
+Neil Thomson (QueryVision): So…
+
+374
+00:38:20.490 --> 00:38:21.330
+Eric Drury (Forth Consulting): Okay.
+
+375
+00:38:23.340 --> 00:38:33.830
+Eric Drury (Forth Consulting): So we need to create a document with all of these… References, such as this one.
+
+376
+00:38:34.040 --> 00:38:39.050
+Eric Drury (Forth Consulting): that Sankarshan has put out, this one that John Phillips has done.
+
+377
+00:38:41.860 --> 00:38:44.090
+Neil Thomson (QueryVision): That would certainly be a start.
+
+378
+00:38:44.460 --> 00:38:45.830
+Eric Drury (Forth Consulting): Yeah, okay.
+
+379
+00:38:46.700 --> 00:38:47.510
+Eric Drury (Forth Consulting): What else?
+
+380
+00:38:48.060 --> 00:38:54.290
+Carly Huitema (University of Guelph): I, I asked the Glyif AI. They have a, they have their own reg.
+
+381
+00:38:54.670 --> 00:39:05.479
+Carly Huitema (University of Guelph): It looks like. And they say that, yes, they use decentralized identifiers, but they haven't said that they used it for their Governance document, but then they switched from DIDS to
+
+382
+00:39:05.740 --> 00:39:09.670
+Carly Huitema (University of Guelph): carries AIDs, autonomic identifiers.
+
+383
+00:39:10.830 --> 00:39:11.550
+Eric Drury (Forth Consulting): Okay.
+
+384
+00:39:16.990 --> 00:39:18.290
+Carly Huitema (University of Guelph): So I'm gonna keep looking.
+
+385
+00:39:19.000 --> 00:39:19.600
+Eric Drury (Forth Consulting): Okay.
+
+386
+00:39:29.170 --> 00:39:30.030
+Eric Drury (Forth Consulting): Okay.
+
+387
+00:39:40.350 --> 00:39:43.110
+Neil Thomson (QueryVision): We're all becoming part of a carry-on movie?
+
+388
+00:39:47.190 --> 00:39:48.570
+Eric Drury (Forth Consulting): Rakuten Mary on what?
+
+389
+00:39:50.860 --> 00:39:53.480
+Carly Huitema (University of Guelph): Everything is Carrie. It's carry all the way down.
+
+390
+00:39:53.910 --> 00:39:54.270
+Eric Drury (Forth Consulting): Sure.
+
+391
+00:40:00.030 --> 00:40:00.990
+Eric Drury (Forth Consulting): Okay?
+
+392
+00:40:02.780 --> 00:40:03.910
+Eric Drury (Forth Consulting): Anything else?
+
+393
+00:40:16.490 --> 00:40:22.980
+Eric Drury (Forth Consulting): What about… I mean, having a web version of this, it shouldn't take too much to…
+
+394
+00:40:23.350 --> 00:40:26.929
+Eric Drury (Forth Consulting): to turn this PDF into, like, a website that you can navigate.
+
+395
+00:40:28.580 --> 00:40:37.479
+Carly Huitema (University of Guelph): Does somebody know how to turn it into a GitHub Pages, which would be… we could then put it up on GitHub and have it accessible as a GitHub Pages?
+
+396
+00:40:38.200 --> 00:40:41.370
+Carly Huitema (University of Guelph): on, the Trust Over IP GitHub.
+
+397
+00:40:44.110 --> 00:40:45.279
+Eric Drury (Forth Consulting): GitHub, what, pages?
+
+398
+00:40:45.280 --> 00:40:46.330
+Steven Milstein: Certainly.
+
+399
+00:40:46.690 --> 00:40:55.659
+Steven Milstein: tools available, but maybe even, Google Docs does it, if you could import the PDF and then, say, export to Markdown?
+
+400
+00:40:56.300 --> 00:40:57.090
+Carly Huitema (University of Guelph): Yeah.
+
+401
+00:40:57.090 --> 00:40:59.520
+Steven Milstein: Markdown as native GitHub.
+
+402
+00:41:00.260 --> 00:41:05.280
+Steven Milstein: I don't know how to do the pages, Sankerson certainly does, as we saw in the link.
+
+403
+00:41:05.660 --> 00:41:10.630
+Steven Milstein: But yeah, I think just starting off with, you know, Markdown is…
+
+404
+00:41:11.080 --> 00:41:16.279
+Steven Milstein: There's a Markdown editor, you could just do it directly in GitHub, we don't have to make it more complicated than that.
+
+405
+00:41:17.210 --> 00:41:25.710
+Eric Drury (Forth Consulting): I mean, actually, we should. If we're going to work and dissect this, we should probably turn this into a Google Doc or something, so people can make comments, and we can…
+
+406
+00:41:25.710 --> 00:41:27.170
+Carly Huitema (University of Guelph): Yep. Good idea.
+
+407
+00:41:27.170 --> 00:41:37.240
+Neil Thomson (QueryVision): Having been through this recently on another project, generally speaking, it's… first pass for general consumption is Google Doc.
+
+408
+00:41:37.510 --> 00:41:42.950
+Neil Thomson (QueryVision): Yeah. And then for version control, it then moves into GitHub, and it becomes Markdown.
+
+409
+00:41:43.610 --> 00:41:44.210
+Eric Drury (Forth Consulting): Right.
+
+410
+00:41:44.530 --> 00:41:49.469
+Neil Thomson (QueryVision): So… so I think that's… that's… that seems to be where… where people are trending.
+
+411
+00:41:49.980 --> 00:41:50.760
+Neil Thomson (QueryVision): So…
+
+412
+00:41:52.500 --> 00:41:53.709
+Carly Huitema (University of Guelph): Hey, look at this.
+
+413
+00:41:53.840 --> 00:42:00.859
+Carly Huitema (University of Guelph): So, Carrie… the, sorry, the VLEI Governance Framework
+
+414
+00:42:02.080 --> 00:42:05.430
+Carly Huitema (University of Guelph): There's a little bit of funniness about the language, because…
+
+415
+00:42:05.750 --> 00:42:09.730
+Carly Huitema (University of Guelph): In… in 1.1 about the DID.
+
+416
+00:42:11.420 --> 00:42:16.210
+Carly Huitema (University of Guelph): We said that the organization Needs a dead.
+
+417
+00:42:17.220 --> 00:42:17.980
+Eric Drury (Forth Consulting): Who, we did…
+
+418
+00:42:17.980 --> 00:42:30.950
+Carly Huitema (University of Guelph): Okay, no, no, okay, the primary document… okay, so the primary document for the Governance Framework, and it must have a DID that serves as an identifier of the entire Governance framework. Okay, so the primary document needs a DID.
+
+419
+00:42:31.390 --> 00:42:39.389
+Carly Huitema (University of Guelph): And when you download the VLEI Governance Framework version 4.0, it's called Primary Document.
+
+420
+00:42:39.530 --> 00:42:48.370
+Carly Huitema (University of Guelph): And it has a document name, and it has a document did URL, which is did carry blah blah blah.
+
+421
+00:42:48.860 --> 00:42:49.530
+Eric Drury (Forth Consulting): Okay.
+
+422
+00:42:50.570 --> 00:42:54.650
+Eric Drury (Forth Consulting): Okay, so good, that's… that's… so far, they've got 2 for 2.
+
+423
+00:42:56.390 --> 00:42:57.280
+Carly Huitema (University of Guelph): Yep.
+
+424
+00:42:58.680 --> 00:43:03.600
+Eric Drury (Forth Consulting): And does it have… Authoritative references to all other documents in the governance.
+
+425
+00:43:04.560 --> 00:43:10.879
+Carly Huitema (University of Guelph): I'm looking, because that's all on the webpage, but I don't know if it… it doesn't reference it from within…
+
+426
+00:43:11.140 --> 00:43:12.400
+Carly Huitema (University of Guelph): this document.
+
+427
+00:43:15.010 --> 00:43:22.349
+Eric Drury (Forth Consulting): So, like Sankarshan said, if there's a planned activity to update the metamodel, it might be ideal to create a list of inputs that could be examined.
+
+428
+00:43:22.840 --> 00:43:26.239
+Eric Drury (Forth Consulting): To determine whether an update is a minor change or a major release.
+
+429
+00:43:26.670 --> 00:43:34.040
+Eric Drury (Forth Consulting): At this point, I don't think we have that input requirements in place yet. So, inputs… a list of inputs. What's an input? What's an example of an input?
+
+430
+00:43:35.080 --> 00:43:40.250
+Carly Huitema (University of Guelph): the VLAI Governance that I put the link into that we can use as reference.
+
+431
+00:43:40.790 --> 00:43:44.920
+Sankarshan: An example of an input could be, why do you want to
+
+432
+00:43:45.480 --> 00:43:59.109
+Sankarshan: change or update the metamodel itself. Like, if somebody comes and says that meta model doesn't cover Agentic systems, and it doesn't cover certain specific aspects of Agentic systems, so you have a well-scoped
+
+433
+00:43:59.700 --> 00:44:00.680
+Sankarshan: gap.
+
+434
+00:44:00.990 --> 00:44:10.119
+Sankarshan: That can be evaluated as, does it… does the metamodel really need to include Agentic systems, or if it does, how does it cover that, and so on and so forth.
+
+435
+00:44:10.430 --> 00:44:11.680
+Eric Drury (Forth Consulting): Okay, so…
+
+436
+00:44:11.680 --> 00:44:14.700
+Neil Thomson (QueryVision): Yep. Sounds like a GitHub issue to me.
+
+437
+00:44:18.960 --> 00:44:19.830
+Eric Drury (Forth Consulting): Yes.
+
+438
+00:44:19.830 --> 00:44:23.470
+Sankarshan: it, it does… work well if it's a GitHub issue.
+
+439
+00:44:24.390 --> 00:44:26.460
+Sankarshan: And I see a…
+
+440
+00:44:26.870 --> 00:44:32.870
+Sankarshan: quite a few groups in Trust Over IP adopting that path. I'm not sure if this working group
+
+441
+00:44:33.190 --> 00:44:35.450
+Sankarshan: Is keen to go down that road.
+
+442
+00:44:36.010 --> 00:44:36.719
+Eric Drury (Forth Consulting): Not yet.
+
+443
+00:44:39.130 --> 00:44:45.799
+Eric Drury (Forth Consulting): A list of requirements, or inputs or requirements that will, help determine
+
+444
+00:44:50.880 --> 00:44:56.299
+Eric Drury (Forth Consulting): weather, or… how the… the endurance framework.
+
+445
+00:44:56.410 --> 00:44:58.500
+Eric Drury (Forth Consulting): Might be updated.
+
+446
+00:44:58.700 --> 00:45:04.579
+Eric Drury (Forth Consulting): Okay, so we've got, yeah, I mean, I think that's the big one, is AI and Agentic AI systems.
+
+447
+00:45:04.780 --> 00:45:07.989
+Eric Drury (Forth Consulting): Yeah, so maybe we can…
+
+448
+00:45:11.310 --> 00:45:21.080
+Eric Drury (Forth Consulting): Yeah, Makki, that's what we're trying to get, is we're trying to get Carla, because I think Carla's been taking notes over the… they have to update it, like, once a year or something, so she's been taking notes.
+
+449
+00:45:21.190 --> 00:45:27.259
+Eric Drury (Forth Consulting): Should we start a document now?
+
+450
+00:45:30.240 --> 00:45:37.180
+Eric Drury (Forth Consulting): so we can… You know, put this in a document that then is distributed and people can contribute to?
+
+451
+00:45:39.340 --> 00:45:44.940
+Carly Huitema (University of Guelph): Yeah, are you gonna do it in Google Docs? Because my problem is now nobody…
+
+452
+00:45:45.200 --> 00:45:57.340
+Carly Huitema (University of Guelph): every time I try and share something from the Trust Over IP Google Docs drive, nobody has access, even people who should have access. And… and
+
+453
+00:45:57.800 --> 00:46:00.949
+Carly Huitema (University of Guelph): the, we could put it in GitHub Markdown.
+
+454
+00:46:01.330 --> 00:46:06.679
+Carly Huitema (University of Guelph): And I'm a speaking as a person who hated GitHub at the beginning, but eventually I learned.
+
+455
+00:46:06.680 --> 00:46:10.980
+Eric Drury (Forth Consulting): I think it doesn't have to be trusted VIP, Google, I mean… Doc, does it?
+
+456
+00:46:12.080 --> 00:46:13.040
+Carly Huitema (University of Guelph): Yeah, okay.
+
+457
+00:46:14.990 --> 00:46:17.089
+Carly Huitema (University of Guelph): Discovery is a bit harder, then.
+
+458
+00:46:17.320 --> 00:46:19.419
+Eric Drury (Forth Consulting): But then somebody's gonna have to own it, so…
+
+459
+00:46:19.730 --> 00:46:22.360
+Eric Drury (Forth Consulting): If we say Ecosystem Governance Working Group.
+
+460
+00:46:22.500 --> 00:46:25.020
+Eric Drury (Forth Consulting): Let's see if we do this here. No.
+
+461
+00:46:25.020 --> 00:46:25.750
+Carly Huitema (University of Guelph): Yep.
+
+462
+00:46:25.750 --> 00:46:32.940
+Eric Drury (Forth Consulting): Here we go. It's called, governance…
+
+463
+00:46:33.480 --> 00:46:34.839
+Carly Huitema (University of Guelph): Is that a Model V2?
+
+464
+00:46:35.160 --> 00:46:44.270
+Eric Drury (Forth Consulting): Governance met, model… B2… Planning, or whatever.
+
+465
+00:46:44.970 --> 00:46:45.870
+Eric Drury (Forth Consulting): Okay.
+
+466
+00:46:46.130 --> 00:46:47.000
+Eric Drury (Forth Consulting): Sir?
+
+467
+00:46:49.700 --> 00:46:54.580
+Eric Drury (Forth Consulting): Let's call share… Save it.
+
+468
+00:46:55.690 --> 00:46:58.979
+Eric Drury (Forth Consulting): Let's just copy a link, and let's see who gets it.
+
+469
+00:47:04.730 --> 00:47:06.020
+Eric Drury (Forth Consulting): Who can access that?
+
+470
+00:47:11.620 --> 00:47:12.079
+Carly Huitema (University of Guelph): Hi, good afternoon.
+
+471
+00:47:12.080 --> 00:47:12.950
+Steven Milstein: That's fair.
+
+472
+00:47:13.130 --> 00:47:14.480
+Eric Drury (Forth Consulting): Everybody. Okay.
+
+473
+00:47:14.750 --> 00:47:25.460
+Eric Drury (Forth Consulting): Alright, so this is in… this is within the… Shared Drive, Ecosystem Governance working group folder.
+
+474
+00:47:25.640 --> 00:47:31.220
+Eric Drury (Forth Consulting): And it's, so you… so, okay, everybody's got it. So let's work on this document.
+
+475
+00:47:32.290 --> 00:47:34.400
+Eric Drury (Forth Consulting): And, where'd it go?
+
+476
+00:47:36.140 --> 00:47:37.990
+Eric Drury (Forth Consulting): Right there. And…
+
+477
+00:47:38.280 --> 00:47:50.519
+Eric Drury (Forth Consulting): We'll do the list of requirements, why we want to do this, we'll have a reference of a catalog of different references for Sankarshan's work and for John Phillips' documents.
+
+478
+00:47:51.650 --> 00:48:01.989
+Eric Drury (Forth Consulting): and to the Golife VLEI Governance Framework, etc. So we'll start just working from this document to, to kind of work our way through this whole process.
+
+479
+00:48:03.200 --> 00:48:04.550
+Eric Drury (Forth Consulting): Everybody happy with that?
+
+480
+00:48:07.780 --> 00:48:13.640
+Eric Drury (Forth Consulting): We're gonna have to internally… It's based on a meta model, but not exact.
+
+481
+00:48:14.300 --> 00:48:23.390
+Eric Drury (Forth Consulting): So I think, Sankarshan, I think… so Glyph have… I think the… the Glyph version is… practically…
+
+482
+00:48:23.680 --> 00:48:26.919
+Eric Drury (Forth Consulting): like, mirror version of the meta model.
+
+483
+00:48:28.030 --> 00:48:37.479
+Eric Drury (Forth Consulting): But it's in all of the control documents where things just become tailored to the specific environment and the use case. So I think if we look
+
+484
+00:48:38.400 --> 00:48:46.669
+Eric Drury (Forth Consulting): the, maybe we can do that. Maybe we can run the Glyif framework, the DLEI framework.
+
+485
+00:48:47.560 --> 00:48:50.810
+Eric Drury (Forth Consulting): through AI, and give it the metamodel, and say.
+
+486
+00:48:51.330 --> 00:48:54.979
+Eric Drury (Forth Consulting): does this match up? Is there anything that doesn't match up?
+
+487
+00:48:56.080 --> 00:48:57.719
+Eric Drury (Forth Consulting): I mean, I don't know what that will tell us, but…
+
+488
+00:48:58.070 --> 00:49:00.059
+Steven Milstein: I think that would be problematic.
+
+489
+00:49:00.610 --> 00:49:01.480
+Steven Milstein: Why?
+
+490
+00:49:02.030 --> 00:49:09.989
+Steven Milstein: Because the metamodest started off maybe, like, 14 pages, and Glyph must be hundreds, if not thousands of pages?
+
+491
+00:49:10.170 --> 00:49:16.709
+Steven Milstein: Yeah, but I think most of the first engineered to the 14 pages and see how far it's stiffed, it's gonna be…
+
+492
+00:49:17.200 --> 00:49:19.490
+Steven Milstein: Thousands of pages of diffs.
+
+493
+00:49:21.040 --> 00:49:24.760
+Eric Drury (Forth Consulting): well, you can give us some guidance. Makki.
+
+494
+00:49:25.940 --> 00:49:47.549
+Makki Elfatih (Hkdolts): Yeah, actually, I think it's a good idea if we can start envisioning how that would look like from our own perspective, and then I think, you know, meeting with Carla could, you know, like, we can then go through it with Carla and see what's missing. Because, you know, like, really, at the end of the day, I think she'd be able to gather some feedback from the community who used it already.
+
+495
+00:49:47.640 --> 00:50:05.750
+Makki Elfatih (Hkdolts): But I think from our own, you know, like, proposal, like, we can propose something and then connect the dots with her. Yeah, at least, you know, we can find gaps. Maybe, you know, we can envision, for example, that it needs to include Agentic as, you know, like, Sankarshan just mentioned.
+
+496
+00:50:05.880 --> 00:50:13.079
+Makki Elfatih (Hkdolts): You know, like any other dimensions, you know, we see that would be a requirement for the next version.
+
+497
+00:50:13.320 --> 00:50:20.099
+Makki Elfatih (Hkdolts): And then, you know, we can work backwards, or even adjust, based on her feedback.
+
+498
+00:50:20.290 --> 00:50:21.970
+Makki Elfatih (Hkdolts): Yep.
+
+499
+00:50:22.770 --> 00:50:28.589
+Eric Drury (Forth Consulting): Okay, so we'll get Carla… we'll, we'll send this document once we get it started.
+
+500
+00:50:29.620 --> 00:50:44.709
+Eric Drury (Forth Consulting): this one, not that one, this one, and get, so we'll do… I'll do an introduction, and start making this document a place where everybody goes to figure out what's happening, and we'll insist that
+
+501
+00:50:44.970 --> 00:50:50.070
+Eric Drury (Forth Consulting): We really need Carla's help to get us going on this journey.
+
+502
+00:50:57.010 --> 00:50:58.319
+Eric Drury (Forth Consulting): Yep, yep, yep.
+
+503
+00:50:58.730 --> 00:51:00.480
+Eric Drury (Forth Consulting): Carly…
+
+504
+00:51:01.260 --> 00:51:04.689
+Carly Huitema (University of Guelph): I think we're gonna have to eventually have this in SpecUPT.
+
+505
+00:51:06.870 --> 00:51:07.730
+Eric Drury (Forth Consulting): Okay.
+
+506
+00:51:08.440 --> 00:51:12.000
+Eric Drury (Forth Consulting): I mean, we want to get it to a… point where… Yep.
+
+507
+00:51:12.190 --> 00:51:19.499
+Eric Drury (Forth Consulting): Yep. So… So then it would make sense to actually get the… the metamodel
+
+508
+00:51:19.760 --> 00:51:24.980
+Eric Drury (Forth Consulting): either Word doc, or get a Word version, or a Google Doc version.
+
+509
+00:51:25.200 --> 00:51:26.220
+Eric Drury (Forth Consulting): And then… Yep.
+
+510
+00:51:27.630 --> 00:51:28.340
+Eric Drury (Forth Consulting): I mean…
+
+511
+00:51:28.340 --> 00:51:33.690
+Carly Huitema (University of Guelph): Export in a smart… well, then figure out how to get it just backup T. It might be… I…
+
+512
+00:51:34.290 --> 00:51:41.869
+Carly Huitema (University of Guelph): Maybe I will look into starting at SpecUpty, because it might be a lot of work to retroactively fit it. We'll see.
+
+513
+00:51:42.420 --> 00:51:52.890
+Eric Drury (Forth Consulting): Okay, so… Carly to exp… Back up to…
+
+514
+00:51:59.870 --> 00:52:01.969
+Eric Drury (Forth Consulting): Spent up T.
+
+515
+00:52:05.530 --> 00:52:06.420
+Eric Drury (Forth Consulting): Okay?
+
+516
+00:52:07.710 --> 00:52:12.000
+Eric Drury (Forth Consulting): Do we want to take a look at this, at this? Where'd it go?
+
+517
+00:52:13.170 --> 00:52:17.760
+Eric Drury (Forth Consulting): Where'd they go? This one? No? No? Where's John's?
+
+518
+00:52:19.220 --> 00:52:20.599
+Eric Drury (Forth Consulting): Should we make that bigger.
+
+519
+00:52:27.330 --> 00:52:28.150
+Eric Drury (Forth Consulting): So…
+
+520
+00:52:29.470 --> 00:52:44.030
+Eric Drury (Forth Consulting): these are based on this prompt, I want you to act as a PhD-level research assistant and research the state-of-the-art of Governance of AI. So, this comes from the perspective… wow, is this today? Done today? That…
+
+521
+00:52:44.440 --> 00:52:50.140
+Eric Drury (Forth Consulting): That they believe that it is missing it's… it's not…
+
+522
+00:52:50.310 --> 00:52:55.869
+Eric Drury (Forth Consulting): perfectly relevant for AI at the moment, and so they want to figure out where the gaps are.
+
+523
+00:52:56.170 --> 00:53:09.750
+Eric Drury (Forth Consulting): Is the TOIP Governance Framework suitable for AI Governance as is? If not, what needs to be done to enhance the metamodel to address AI Governance? So, this is the early returns. Telemetry. Who can tell me what telemetry means?
+
+524
+00:53:13.390 --> 00:53:19.850
+Neil Thomson (QueryVision): Basically, it's basically the equivalent of airline, you know, an aircraft telemetry.
+
+525
+00:53:20.210 --> 00:53:24.809
+Neil Thomson (QueryVision): Right? That's basically, it's a diagnostic, stream.
+
+526
+00:53:25.750 --> 00:53:28.000
+Eric Drury (Forth Consulting): Okay, Bite-sized trust, Carly.
+
+527
+00:53:30.400 --> 00:53:31.550
+Eric Drury (Forth Consulting): telemetry.
+
+528
+00:53:34.700 --> 00:53:41.670
+Eric Drury (Forth Consulting): So, replace static risk assessment documents with a telemetry, An observability control document.
+
+529
+00:53:43.430 --> 00:53:45.289
+Carly Huitema (University of Guelph): I think you say telemetry.
+
+530
+00:53:45.900 --> 00:53:46.650
+Eric Drury (Forth Consulting): Telemetry.
+
+531
+00:53:46.650 --> 00:53:48.909
+Neil Thomson (QueryVision): a telemetry, yeah.
+
+532
+00:53:48.910 --> 00:53:52.920
+Carly Huitema (University of Guelph): The telemetry and observability, well, yeah.
+
+533
+00:53:53.160 --> 00:53:55.569
+Eric Drury (Forth Consulting): That's the Canadian pronunciation? We say
+
+534
+00:53:58.900 --> 00:53:59.760
+Eric Drury (Forth Consulting): That's intrigued.
+
+535
+00:53:59.760 --> 00:54:01.330
+Carly Huitema (University of Guelph): You were there somewhere.
+
+536
+00:54:02.600 --> 00:54:04.539
+Eric Drury (Forth Consulting): I still don't understand what it is.
+
+537
+00:54:04.880 --> 00:54:06.140
+Eric Drury (Forth Consulting): telemetry.
+
+538
+00:54:07.380 --> 00:54:09.690
+Neil Thomson (QueryVision): It's actually, try to tell me.
+
+539
+00:54:13.270 --> 00:54:13.889
+Eric Drury (Forth Consulting): Thank you for that
+
+540
+00:54:16.380 --> 00:54:30.480
+Eric Drury (Forth Consulting): So, replace static… so, at the moment, the risk… yeah, it's probably right. The Governance metamodel says, alright, identify the risks, and then construct a framework that addresses those and mitigates those.
+
+541
+00:54:31.050 --> 00:54:36.460
+Sankarshan: So, the government metamodel that we have right now takes the,
+
+542
+00:54:37.640 --> 00:54:43.620
+Sankarshan: Risks and puts them in some sort of a… what could be described as a register.
+
+543
+00:54:43.750 --> 00:54:46.630
+Sankarshan: And then, through various,
+
+544
+00:54:47.100 --> 00:54:57.300
+Sankarshan: Processes allows the evaluation of the risks in terms of how they would pan out when the governance framework is adopted by any deployment.
+
+545
+00:54:57.700 --> 00:55:03.499
+Sankarshan: I think what, John's AI adventure is suggesting is that
+
+546
+00:55:03.640 --> 00:55:07.480
+Sankarshan: This one-time activity will end up being fairly fluid.
+
+547
+00:55:07.890 --> 00:55:23.989
+Sankarshan: And thus, no longer static, and end up being versioned, so that at any point, you are able to run audits based on a particular version, and figure out what your risk profile is, and how is the government's framework managing to handle the risk.
+
+548
+00:55:26.270 --> 00:55:26.800
+Eric Drury (Forth Consulting): Yep.
+
+549
+00:55:27.210 --> 00:55:33.569
+Eric Drury (Forth Consulting): So this is the, the, I mean, just a general trend in cybersecurity and, and…
+
+550
+00:55:34.310 --> 00:55:43.980
+Eric Drury (Forth Consulting): And others, continuous authentication, continuous… Well, observability. Yeah, Makki?
+
+551
+00:55:47.290 --> 00:56:01.410
+Makki Elfatih (Hkdolts): Yeah, actually, you know, I just wanted to mention that to move away from that static, you know, version, that's the reason why we wanted to have some tools to enable implementation, like the risk and principles document we started with.
+
+552
+00:56:01.410 --> 00:56:17.180
+Makki Elfatih (Hkdolts): So I think this will be very fluid, like, later on, if anyone would like, for example, to adjust or add to the risks and the principles, that could be done. So I think this could be more into the implementation tools, like enabling the Governance metadata document, basically.
+
+553
+00:56:17.180 --> 00:56:22.529
+Makki Elfatih (Hkdolts): But, you know, like, I just had a comment in terms of the second one.
+
+554
+00:56:22.530 --> 00:56:40.460
+Makki Elfatih (Hkdolts): the telemetry and observability when it comes to mandate carry anchors, continuous machine controlled, I think it will be safer to have machine-readable as opposed to machine-controlled. You know, machine-controlled could be, like, Agentic, which could, you know, raise a lot of threats. Like, you can use Agentic, but you need to have
+
+555
+00:56:40.460 --> 00:56:55.380
+Makki Elfatih (Hkdolts): some sort of, you know, like, you know, guardrails or some, you know, some, some methods that you can basically have human enablement in the process. So I think it would be good to have it as machine readable.
+
+556
+00:56:56.970 --> 00:57:04.710
+Makki Elfatih (Hkdolts): Kerry Ankard, I do agree with this. I think things are shifting towards Carrie. We've discussed this before as well.
+
+557
+00:57:05.410 --> 00:57:12.229
+Eric Drury (Forth Consulting): So how would that work if you've got a… if you've done a risk assessment? You're like, okay, we know industry, we know our use case, we know…
+
+558
+00:57:12.920 --> 00:57:16.880
+Eric Drury (Forth Consulting): the data we're playing… whatever. We've got our risk assessment.
+
+559
+00:57:17.060 --> 00:57:27.290
+Eric Drury (Forth Consulting): And if you move that to an ongoing, sort of, continuous risk assessment, how does that get fed back into the governance framework?
+
+560
+00:57:27.570 --> 00:57:28.770
+Eric Drury (Forth Consulting): and updated.
+
+561
+00:57:30.100 --> 00:57:31.190
+Eric Drury (Forth Consulting): Or does the government?
+
+562
+00:57:31.190 --> 00:57:33.040
+Makki Elfatih (Hkdolts): Confirm what the document should be.
+
+563
+00:57:34.220 --> 00:57:44.009
+Makki Elfatih (Hkdolts): Yeah, I think it should be as broad as possible, like, without really becoming, like, a policy kind of document. I think it should be, like, a high-level guidance.
+
+564
+00:57:44.010 --> 00:58:02.360
+Makki Elfatih (Hkdolts): And then, you know, the tools could enable us to fluidly, you know, implement. Also, the tools can help us, you know, like, update rapidly, like, moving away from a static document. So I think the next version should be, like, very, I would say.
+
+565
+00:58:02.430 --> 00:58:06.969
+Makki Elfatih (Hkdolts): Fluid, like, very broad, document, broader than the first, version.
+
+566
+00:58:07.620 --> 00:58:08.280
+Eric Drury (Forth Consulting): Okay.
+
+567
+00:58:08.420 --> 00:58:16.210
+Eric Drury (Forth Consulting): I mean, I think we should… it would all be good… it would be good for everybody to… if we just re-read this, because I think it is fairly generic.
+
+568
+00:58:16.870 --> 00:58:18.700
+Eric Drury (Forth Consulting): And all the real government.
+
+569
+00:58:18.700 --> 00:58:21.490
+Sankarshan: Is designed to be generic.
+
+570
+00:58:21.840 --> 00:58:22.260
+Eric Drury (Forth Consulting): Yeah.
+
+571
+00:58:22.260 --> 00:58:41.379
+Sankarshan: So, for instance, if I go back to the question you had, a governance framework at a metamorodel level will essentially just mention that you will need to have a risk register of some sort that's likely machine-readable and continuously updated and managed and controlled.
+
+572
+00:58:41.450 --> 00:58:53.149
+Sankarshan: It is not going to give an entire, let's say, a vocabulary of risks to populate a risk register, or it could give it as an example in an appendix of sorts, but the main
+
+573
+00:58:53.540 --> 00:59:05.489
+Sankarshan: Declaration would be that you'd need that… you'd require that artifact to have… be present, but it will not go deeper into what the shape and form of that artifact will be.
+
+574
+00:59:06.370 --> 00:59:07.500
+Eric Drury (Forth Consulting): Yeah, okay.
+
+575
+00:59:07.650 --> 00:59:10.730
+Eric Drury (Forth Consulting): Yeah, so that, for example, is missing, huh?
+
+576
+00:59:11.450 --> 00:59:20.970
+Neil Thomson (QueryVision): So, so just a thought here. I mean, what I think is missing is, you know, static risk assessment documents with operational telemetry.
+
+577
+00:59:21.470 --> 00:59:25.739
+Neil Thomson (QueryVision): It's the decisions that are being made, you know, under the auspices of a specification.
+
+578
+00:59:26.620 --> 00:59:31.890
+Neil Thomson (QueryVision): Right? So, you need to have observability of decisions being made using the specification.
+
+579
+00:59:34.890 --> 00:59:39.129
+Neil Thomson (QueryVision): I mean, if you design a process for, you know, flights for aircraft.
+
+580
+00:59:39.350 --> 00:59:56.409
+Neil Thomson (QueryVision): There's policies about how you fly, how you, you know, how you follow a route, how do you interact at waypoints with air traffic control, and the telemetry is all about the actual operations. It's the verification that the process is being followed.
+
+581
+00:59:58.040 --> 00:59:58.870
+Eric Drury (Forth Consulting): Okay.
+
+582
+01:00:01.410 --> 01:00:03.510
+Neil Thomson (QueryVision): Telemetry about the documents is…
+
+583
+01:00:04.140 --> 01:00:10.119
+Neil Thomson (QueryVision): You know, the specifications is nothing more than version control and version handling management.
+
+584
+01:00:12.060 --> 01:00:12.990
+Eric Drury (Forth Consulting): So…
+
+585
+01:00:13.110 --> 01:00:16.939
+Eric Drury (Forth Consulting): Yeah, that's gonna have to… those are the kind of things that are gonna have to go into, you know.
+
+586
+01:00:17.680 --> 01:00:21.360
+Eric Drury (Forth Consulting): people language. I don't understand any of this.
+
+587
+01:00:21.490 --> 01:00:25.250
+Carly Huitema (University of Guelph): I, I don't even know what, like… so telemetry is, like.
+
+588
+01:00:25.820 --> 01:00:31.549
+Carly Huitema (University of Guelph): Real-time, ongoing collection and transmission of the data.
+
+589
+01:00:31.730 --> 01:00:34.030
+Carly Huitema (University of Guelph): And how on earth would…
+
+590
+01:00:34.950 --> 01:00:41.980
+Neil Thomson (QueryVision): Well, it's not necessarily the data. In this case, we're talking about documents. It's about decisions that are being made.
+
+591
+01:00:42.210 --> 01:00:44.840
+Neil Thomson (QueryVision): About the implementation of the specifications.
+
+592
+01:00:45.670 --> 01:00:46.479
+Carly Huitema (University of Guelph): But they're saying replace.
+
+593
+01:00:46.480 --> 01:00:47.310
+Neil Thomson (QueryVision): Not necessarily.
+
+594
+01:00:47.310 --> 01:00:49.180
+Carly Huitema (University of Guelph): Risk assessment documents.
+
+595
+01:00:51.230 --> 01:00:52.350
+Eric Drury (Forth Consulting): with a telemetry.
+
+596
+01:00:52.670 --> 01:00:53.230
+Eric Drury (Forth Consulting): Elementary.
+
+597
+01:00:53.230 --> 01:00:55.540
+Carly Huitema (University of Guelph): An observability-controlled document.
+
+598
+01:00:55.880 --> 01:00:56.520
+Carly Huitema (University of Guelph): Lightful.
+
+599
+01:00:56.650 --> 01:00:59.490
+Carly Huitema (University of Guelph): Is that… is that just slop?
+
+600
+01:00:59.490 --> 01:01:01.110
+Eric Drury (Forth Consulting): like, implementation.
+
+601
+01:01:01.400 --> 01:01:11.380
+Neil Thomson (QueryVision): Now, to me, that… to me, it says you were going to work on Git Controlled documents, and if you make changes to those Git Controlled documents, then there should be a notification.
+
+602
+01:01:14.050 --> 01:01:14.680
+Eric Drury (Forth Consulting): So…
+
+603
+01:01:14.680 --> 01:01:23.379
+Sankarshan: I'm not… I haven't looked through this document that John had shared, but I think, given what the prompt is.
+
+604
+01:01:23.810 --> 01:01:31.170
+Sankarshan: It is attempting to reshape the existing metamodel framework and trying to highlight
+
+605
+01:01:31.410 --> 01:01:35.359
+Sankarshan: If the existing version that we have were to be
+
+606
+01:01:35.720 --> 01:01:49.179
+Sankarshan: expanded to cover Agentic systems. What are the capability gaps that it should also factor in? So, telemetry, observability, and all of that are capability gaps. Now, I think that one of the things that
+
+607
+01:01:49.560 --> 01:01:56.559
+Sankarshan: I should emphasize is, We… We would like to begin by…
+
+608
+01:01:56.810 --> 01:02:01.130
+Sankarshan: Considering that we have this existing metamodel, Version.
+
+609
+01:02:01.290 --> 01:02:06.650
+Sankarshan: And then create a requirements document that is gathering from
+
+610
+01:02:07.100 --> 01:02:12.449
+Sankarshan: As many input sources as possible, and then evaluate in terms of
+
+611
+01:02:12.920 --> 01:02:16.129
+Sankarshan: how the next version would emerge, so…
+
+612
+01:02:16.380 --> 01:02:24.189
+Sankarshan: The Agentic document that John has is not… is very focused on one particular problem to be solved.
+
+613
+01:02:24.360 --> 01:02:27.340
+Sankarshan: Ensure that the metal model meets the Agentic world.
+
+614
+01:02:29.960 --> 01:02:30.470
+Eric Drury (Forth Consulting): Yeah.
+
+615
+01:02:30.780 --> 01:02:31.600
+Eric Drury (Forth Consulting): Yeah, yeah.
+
+616
+01:02:33.900 --> 01:02:38.130
+Eric Drury (Forth Consulting): So, I mean, that's… I guess that's the point, is that, yeah, we need to…
+
+617
+01:02:38.580 --> 01:02:45.910
+Eric Drury (Forth Consulting): there's, you know, no shortcombs. We need to go through these documents, and this is very specific to the prompt of, you know.
+
+618
+01:02:46.480 --> 01:02:48.349
+Eric Drury (Forth Consulting): Is it suitable for AI?
+
+619
+01:02:48.840 --> 01:02:50.499
+Eric Drury (Forth Consulting): And where are the gaps?
+
+620
+01:02:50.770 --> 01:02:57.120
+Eric Drury (Forth Consulting): But that's just one aspect, and if we, so we've got here in the notes… to…
+
+621
+01:02:58.030 --> 01:03:08.979
+Eric Drury (Forth Consulting): begin a list of input requirements that will help determine whether and how the government's framework might be updated. So, what's missing? What are we trying to get out of an update? What are we trying to address?
+
+622
+01:03:09.390 --> 01:03:23.729
+Eric Drury (Forth Consulting): Etc. So, I'll try to write that into the, into the introduction. So I'll try to put this here. I'll get a starter text here. Everybody contribute so that we all understand what we're doing and why we're doing it.
+
+623
+01:03:24.100 --> 01:03:30.780
+Eric Drury (Forth Consulting): And once we're happy with that intro, then we can sort of go off and look at all these different,
+
+624
+01:03:31.990 --> 01:03:34.030
+Eric Drury (Forth Consulting): References and start working.
+
+625
+01:03:34.440 --> 01:03:46.749
+Eric Drury (Forth Consulting): But we've got a minute, and I just want to make sure that everybody knows, two weeks from now, Verana is going to come and present. And they're going to present what they've got. They've been working on it for a long time. It's open…
+
+626
+01:03:48.140 --> 01:03:55.460
+Eric Drury (Forth Consulting): source, I believe, open standards, for sure. They're using all of the standards that we're familiar with.
+
+627
+01:03:55.550 --> 01:04:12.980
+Eric Drury (Forth Consulting): Trust Registry Query Protocol, they probably… they might have some TSP in there, they got DIS, W3C, verifiable credentials, etc. So they'll present that, but then they're going to get to the point after the presentation where they're saying, we've got all this, what we're kind of missing is a nice,
+
+628
+01:04:13.620 --> 01:04:21.380
+Eric Drury (Forth Consulting): Governance framework, and so that will lead to a discussion where we can, exchange with them about how that might look. Carly?
+
+629
+01:04:21.850 --> 01:04:27.079
+Carly Huitema (University of Guelph): So, if you share with me the ad and the info.
+
+630
+01:04:27.320 --> 01:04:32.690
+Carly Huitema (University of Guelph): then I have permissions to add it to Linux Foundation Decentralized Trust LinkedIn.
+
+631
+01:04:33.200 --> 01:04:38.789
+Eric Drury (Forth Consulting): Okay, okay. Yeah, I've already sent them the link so they can fill in the information on it. I hope to get that by tomorrow.
+
+632
+01:04:38.940 --> 01:04:42.490
+Carly Huitema (University of Guelph): Yeah, okay, so then make the picture and the…
+
+633
+01:04:42.600 --> 01:04:50.349
+Carly Huitema (University of Guelph): And the info, and then I can post it. I will… I can post it up. And if somebody then wants permission to post on Linux Foundation.
+
+634
+01:04:50.630 --> 01:04:51.850
+Eric Drury (Forth Consulting): LinkedIn?
+
+635
+01:04:52.120 --> 01:04:56.420
+Carly Huitema (University of Guelph): Yeah, or you can submit to get your own permission to do that.
+
+636
+01:04:57.030 --> 01:05:01.159
+Eric Drury (Forth Consulting): Okay, but so this is with Fabrice, who has been part of the Trust Regiment.
+
+637
+01:05:01.160 --> 01:05:01.840
+Carly Huitema (University of Guelph): Yeah.
+
+638
+01:05:01.840 --> 01:05:19.660
+Eric Drury (Forth Consulting): You know, so he's part of Trust Over IP, and they've been working on this for a long time. They've built some, you know, interesting stuff, and they've got some interesting use cases, but their, whole, point after the presentation is to talk about, you know, how can infrastructure like this be governed?
+
+639
+01:05:20.120 --> 01:05:23.189
+Eric Drury (Forth Consulting): So, please join in two weeks, if you can.
+
+640
+01:05:23.670 --> 01:05:32.939
+Carly Huitema (University of Guelph): Yeah, yeah, let's get that ad out, because, Trust Registry Query Protocol was looking for people who are working with trust registries.
+
+641
+01:05:33.400 --> 01:05:33.920
+Eric Drury (Forth Consulting): Yep.
+
+642
+01:05:34.990 --> 01:05:35.530
+Carly Huitema (University of Guelph): Okay.
+
+643
+01:05:35.690 --> 01:05:36.490
+Carly Huitema (University of Guelph): Good.
+
+644
+01:05:36.820 --> 01:05:38.320
+Eric Drury (Forth Consulting): Alright, thanks, everybody!
+
+645
+01:05:39.720 --> 01:05:40.580
+Carly Huitema (University of Guelph): Bye.
+
+646
+01:05:40.580 --> 01:05:42.800
+Eric Drury (Forth Consulting): We'll call it a day. All right. Thank you.
+
+647
+01:05:43.570 --> 01:05:44.170
+Steven Milstein: Thank you.
+
+648
+01:05:44.770 --> 01:05:45.959
+Eric Drury (Forth Consulting): Alright, cheers, bye-bye.
+
