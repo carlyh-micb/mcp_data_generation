@@ -13,19 +13,19 @@ This project currently supports:
 The conversion process normalizes each source file into a common JSON structure for later processing.
 
 ## Data Structure
-id - Unique identifier for this content item [we would want to standardize this].
-project - Trust over IP, etc.
-organizational_unit - Working group, task force, committee, etc. (list)
-date - Meeting date, publication date, or creation date.
-source_system - Zoom, GitHub, Confluence, YouTube, etc. (list)
-asset_type - Meeting, Video, Wiki Page, Issue, Specification, Report, etc. (list)
-content_type - Transcript, AI Summary, Chat, Markdown, Discussion, Description, etc. (list)
-title - Human-readable title.
-identifier - SAID, GitHub issue number, video ID, page ID, etc.
-identifier_type - SAID, GitHub Issue, YouTube Video, Confluence Page, etc. (list)
-source_url - Original source location.
-content - The text to be embedded and searched.
-collected_at - When the content was harvested.
+- id - Unique identifier for this content item [we would want to standardize this].
+- project - Trust over IP, etc.
+- organizational_unit - Working group, task force, committee, etc. (list)
+- date - Meeting date, publication date, or creation date.
+- source_system - Zoom, GitHub, Confluence, YouTube, etc. (list)
+- asset_type - Meeting, Video, Wiki Page, Issue, Specification, Report, etc. (list)
+- content_type - Transcript, AI Summary, Chat, Markdown, Discussion, Description, etc. (list)
+- title - Human-readable title.
+- identifier - SAID, GitHub issue number, video ID, page ID, etc.
+- identifier_type - SAID, GitHub Issue, YouTube Video, Confluence Page, etc. (list)
+- source_url - Original source location.
+- content - The text to be embedded and searched.
+- collected_at - When the content was harvested.
 
 ## Folder Structure
 
